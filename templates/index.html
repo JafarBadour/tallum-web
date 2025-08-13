@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tallum - Learn Foreign Words</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .header {
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .word-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border: 2px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+
+        .word-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.1);
+        }
+
+        .word-display {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 15px 20px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 1.1em;
+            transition: border-color 0.3s ease;
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 120px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+            transform: translateY(-2px);
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 10px;
+            font-weight: 600;
+        }
+
+        .result.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .result.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .sentence {
+            background: #e3f2fd;
+            border: 1px solid #bbdefb;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 15px;
+            font-style: italic;
+            color: #1976d2;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            color: #666;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .score-display {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 20px;
+            }
+            
+            .word-display {
+                font-size: 2em;
+            }
+            
+            .button-group {
+                flex-direction: column;
+            }
+            
+            .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Tallum</h1>
+            <p>Learn foreign words with smart repetition</p>
+        </div>
+
+        <div class="word-card">
+            <div class="word-display" id="wordDisplay">
+                Click "Start Learning" to begin
+            </div>
+            
+            <div class="input-group">
+                <input type="text" id="answerInput" placeholder="Type the translation..." disabled autocomplete="off">
+            </div>
+            
+            <div class="button-group">
+                <button class="btn btn-primary" id="startBtn">Start Learning</button>
+                <button class="btn btn-secondary" id="checkBtn" disabled>Check Answer</button>
+                <button class="btn btn-secondary" id="hintBtn" disabled>Show Sentence</button>
+                <button class="btn btn-success" id="nextBtn" style="display: none;">Next Word</button>
+            </div>
+            
+            <div class="result" id="result" style="display: none;"></div>
+            <div class="sentence" id="sentence" style="display: none;"></div>
+            <div class="score-display" id="scoreDisplay"></div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-value" id="totalWords">0</div>
+                <div class="stat-label">Total Words</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="avgPositive">0</div>
+                <div class="stat-label">Avg Positive</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="avgNegative">0</div>
+                <div class="stat-label">Avg Negative</div>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Loading...</p>
+        </div>
+    </div>
+
+    <script>
+        let currentWord = null;
+        let stats = {};
+
+        // DOM elements
+        const wordDisplay = document.getElementById('wordDisplay');
+        const answerInput = document.getElementById('answerInput');
+        const startBtn = document.getElementById('startBtn');
+        const checkBtn = document.getElementById('checkBtn');
+        const hintBtn = document.getElementById('hintBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        const result = document.getElementById('result');
+        const sentence = document.getElementById('sentence');
+        const scoreDisplay = document.getElementById('scoreDisplay');
+        const loading = document.getElementById('loading');
+
+        // Double shift tracking
+        let shiftPressCount = 0;
+        let shiftTimeout = null;
+
+        // Event listeners
+        startBtn.addEventListener('click', startLearning);
+        checkBtn.addEventListener('click', checkAnswer);
+        hintBtn.addEventListener('click', showSentence);
+        nextBtn.addEventListener('click', getNextWord);
+        answerInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                checkAnswer();
+            }
+        });
+
+        // Global keyboard listeners
+        document.addEventListener('keydown', (e) => {
+            // Spacebar for next word
+            if (e.code === 'Space' && nextBtn.style.display !== 'none') {
+                e.preventDefault(); // Prevent page scrolling
+                getNextWord();
+            }
+            
+            // Double shift for show sentence
+            if (e.code === 'ShiftLeft' || e.code === 'ShiftRight') {
+                shiftPressCount++;
+                
+                if (shiftPressCount === 1) {
+                    // Start timer for double shift
+                    shiftTimeout = setTimeout(() => {
+                        shiftPressCount = 0;
+                    }, 300); // 300ms window for double shift
+                } else if (shiftPressCount === 2) {
+                    // Double shift detected
+                    clearTimeout(shiftTimeout);
+                    shiftPressCount = 0;
+                    if (hintBtn.disabled === false) {
+                        showSentence();
+                    }
+                }
+            }
+        });
+
+        // Initialize stats
+        loadStats();
+
+        async function loadStats() {
+            try {
+                const response = await fetch('/api/stats');
+                stats = await response.json();
+                updateStatsDisplay();
+            } catch (error) {
+                console.error('Error loading stats:', error);
+            }
+        }
+
+        function updateStatsDisplay() {
+            document.getElementById('totalWords').textContent = stats.total_words || 0;
+            document.getElementById('avgPositive').textContent = stats.average_positive_score || 0;
+            document.getElementById('avgNegative').textContent = stats.average_negative_score || 0;
+        }
+
+        async function startLearning() {
+            showLoading(true);
+            await getNextWord();
+            showLoading(false);
+        }
+
+        async function getNextWord() {
+            try {
+                const response = await fetch('/api/next-word');
+                if (!response.ok) {
+                    throw new Error('Failed to get word');
+                }
+                
+                currentWord = await response.json();
+                displayWord();
+                resetUI();
+                // Ensure focus after UI reset
+                setTimeout(() => {
+                    answerInput.focus();
+                }, 100);
+            } catch (error) {
+                console.error('Error getting word:', error);
+                wordDisplay.textContent = 'Error loading word. Please try again.';
+            }
+        }
+
+        function displayWord() {
+            wordDisplay.textContent = currentWord.word;
+            answerInput.value = '';
+            answerInput.focus();
+        }
+
+        function resetUI() {
+            answerInput.disabled = false;
+            checkBtn.disabled = false;
+            hintBtn.disabled = false;
+            nextBtn.style.display = 'none';
+            result.style.display = 'none';
+            sentence.style.display = 'none';
+            scoreDisplay.textContent = '';
+        }
+
+        async function checkAnswer() {
+            if (!currentWord || !answerInput.value.trim()) return;
+
+            const userAnswer = answerInput.value.trim();
+            
+            try {
+                const response = await fetch('/api/check-answer', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        word_id: currentWord.id,
+                        answer: userAnswer
+                    })
+                });
+
+                const result_data = await response.json();
+                showResult(result_data);
+                
+                // Update stats
+                await loadStats();
+            } catch (error) {
+                console.error('Error checking answer:', error);
+            }
+        }
+
+        function showResult(result_data) {
+            answerInput.disabled = true;
+            checkBtn.disabled = true;
+            hintBtn.disabled = true;
+            nextBtn.style.display = 'inline-block';
+
+            const isCorrect = result_data.correct;
+            result.className = `result ${isCorrect ? 'correct' : 'incorrect'}`;
+            result.style.display = 'block';
+            
+            if (isCorrect) {
+                result.textContent = `✅ Correct! "${currentWord.translation}"`;
+            } else {
+                result.textContent = `❌ Incorrect. The correct answer is "${result_data.correct_answer}"`;
+            }
+
+            scoreDisplay.textContent = `Score: +${result_data.positive_score} / -${result_data.negative_score} (Net: ${result_data.net_score})`;
+        }
+
+        async function showSentence() {
+            if (!currentWord) return;
+
+            try {
+                const response = await fetch(`/api/get-sentence/${currentWord.id}`);
+                const data = await response.json();
+                
+                sentence.textContent = data.example_sentence;
+                sentence.style.display = 'block';
+                
+                // Focus back on input field after showing sentence
+                setTimeout(() => {
+                    answerInput.focus();
+                }, 100);
+            } catch (error) {
+                console.error('Error getting sentence:', error);
+            }
+        }
+
+        function showLoading(show) {
+            loading.style.display = show ? 'block' : 'none';
+        }
+    </script>
+</body>
+</html> 

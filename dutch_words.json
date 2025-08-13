@@ -1,0 +1,4367 @@
+[
+  {
+    "word": "dat",
+    "translation": "that",
+    "example_sentence": "Dat is mijn huis."
+  },
+  {
+    "word": "dit",
+    "translation": "this",
+    "example_sentence": "Dit is een boek."
+  },
+  {
+    "word": "dorp",
+    "translation": "village",
+    "example_sentence": "Ik woon in een dorp."
+  },
+  {
+    "word": "een",
+    "translation": "a",
+    "example_sentence": "Ik heb een kat."
+  },
+  {
+    "word": "gaan",
+    "translation": "to go",
+    "example_sentence": "Ik ga naar school."
+  },
+  {
+    "word": "hij",
+    "translation": "he",
+    "example_sentence": "Hij is mijn broer."
+  },
+  {
+    "word": "ik",
+    "translation": "I",
+    "example_sentence": "Ik ben student."
+  },
+  {
+    "word": "in",
+    "translation": "in",
+    "example_sentence": "De kat is in de tuin."
+  },
+  {
+    "word": "jaar",
+    "translation": "year",
+    "example_sentence": "Ik ben 25 jaar oud."
+  },
+  {
+    "word": "achternaam",
+    "translation": "last name",
+    "example_sentence": "Wat is je achternaam?"
+  },
+  {
+    "word": "al",
+    "translation": "already",
+    "example_sentence": "Ik ben al thuis."
+  },
+  {
+    "word": "en",
+    "translation": "and",
+    "example_sentence": "Ik heb een kat en een hond."
+  },
+  {
+    "word": "hallo",
+    "translation": "hello",
+    "example_sentence": "Hallo, hoe gaat het?"
+  },
+  {
+    "word": "hebben",
+    "translation": "to have",
+    "example_sentence": "Ik heb een auto."
+  },
+  {
+    "word": "heten",
+    "translation": "to be called",
+    "example_sentence": "Ik heet Jan."
+  },
+  {
+    "word": "hoe",
+    "translation": "how",
+    "example_sentence": "Hoe gaat het met je?"
+  },
+  {
+    "word": "hoelang",
+    "translation": "how long",
+    "example_sentence": "Hoelang duurt het?"
+  },
+  {
+    "word": "ja",
+    "translation": "yes",
+    "example_sentence": "Ja, dat klopt."
+  },
+  {
+    "word": "je",
+    "translation": "your",
+    "example_sentence": "Wat is je naam?"
+  },
+  {
+    "word": "jij",
+    "translation": "you",
+    "example_sentence": "Jij bent mijn vriend."
+  },
+  {
+    "word": "kloppen",
+    "translation": "to be correct",
+    "example_sentence": "Dat klopt niet."
+  },
+  {
+    "word": "les",
+    "translation": "lesson",
+    "example_sentence": "Ik heb een les Nederlands."
+  },
+  {
+    "word": "leuk",
+    "translation": "nice",
+    "example_sentence": "Dat is leuk!"
+  },
+  {
+    "word": "mijn",
+    "translation": "my",
+    "example_sentence": "Dit is mijn huis."
+  },
+  {
+    "word": "oké",
+    "translation": "okay",
+    "example_sentence": "Oké, ik begrijp het."
+  },
+  {
+    "word": "ook",
+    "translation": "also",
+    "example_sentence": "Ik ben ook student."
+  },
+  {
+    "word": "spellen",
+    "translation": "to spell",
+    "example_sentence": "Kun je je naam spellen?"
+  },
+  {
+    "word": "telefoonnummer",
+    "translation": "telephone number",
+    "example_sentence": "Wat is je telefoonnummer?"
+  },
+  {
+    "word": "vandaan",
+    "translation": "from",
+    "example_sentence": "Waar kom je vandaan?"
+  },
+  {
+    "word": "voornaam",
+    "translation": "first name",
+    "example_sentence": "Wat is je voornaam?"
+  },
+  {
+    "word": "wat",
+    "translation": "what",
+    "example_sentence": "Wat is dat?"
+  },
+  {
+    "word": "adres",
+    "translation": "address",
+    "example_sentence": "Wat is je adres?"
+  },
+  {
+    "word": "april",
+    "translation": "April",
+    "example_sentence": "Ik ben geboren in april."
+  },
+  {
+    "word": "e-mailadres",
+    "translation": "email address",
+    "example_sentence": "Wat is je e-mailadres?"
+  },
+  {
+    "word": "formulier",
+    "translation": "form",
+    "example_sentence": "Vul dit formulier in."
+  },
+  {
+    "word": "geboortedatum",
+    "translation": "date of birth",
+    "example_sentence": "Wat is je geboortedatum?"
+  },
+  {
+    "word": "geboren",
+    "translation": "born",
+    "example_sentence": "Ik ben geboren in Amsterdam."
+  },
+  {
+    "word": "gemeente",
+    "translation": "municipality",
+    "example_sentence": "Ik woon in deze gemeente."
+  },
+  {
+    "word": "gemeentehuis",
+    "translation": "town hall",
+    "example_sentence": "Het gemeentehuis is dichtbij."
+  },
+  {
+    "word": "goedemorgen",
+    "translation": "good morning",
+    "example_sentence": "Goedemorgen! Hoe gaat het?"
+  },
+  {
+    "word": "helpen",
+    "translation": "to help",
+    "example_sentence": "Kun je me helpen?"
+  },
+  {
+    "word": "invullen",
+    "translation": "to fill in",
+    "example_sentence": "Vul je naam in."
+  },
+  {
+    "word": "kunnen",
+    "translation": "can",
+    "example_sentence": "Ik kan Nederlands spreken."
+  },
+  {
+    "word": "man",
+    "translation": "man",
+    "example_sentence": "Die man is mijn vader."
+  },
+  {
+    "word": "meneer",
+    "translation": "sir",
+    "example_sentence": "Goedemorgen, meneer."
+  },
+  {
+    "word": "mobiel",
+    "translation": "mobile",
+    "example_sentence": "Ik heb een mobiele telefoon."
+  },
+  {
+    "word": "nationaliteit",
+    "translation": "nationality",
+    "example_sentence": "Wat is je nationaliteit?"
+  },
+  {
+    "word": "nieuw",
+    "translation": "new",
+    "example_sentence": "Ik heb een nieuwe auto."
+  },
+  {
+    "word": "op",
+    "translation": "at",
+    "example_sentence": "Ik werk op kantoor."
+  },
+  {
+    "word": "postcode",
+    "translation": "postcode",
+    "example_sentence": "Wat is je postcode?"
+  },
+  {
+    "word": "u",
+    "translation": "you",
+    "example_sentence": "Kunt u me helpen?"
+  },
+  {
+    "word": "uw",
+    "translation": "your",
+    "example_sentence": "Wat is uw naam?"
+  },
+  {
+    "word": "vrouw",
+    "translation": "woman",
+    "example_sentence": "Die vrouw is mijn moeder."
+  },
+  {
+    "word": "woonplaats",
+    "translation": "place of residence",
+    "example_sentence": "Wat is je woonplaats?"
+  },
+  {
+    "word": "zullen",
+    "translation": "will",
+    "example_sentence": "Ik zal je helpen."
+  },
+  {
+    "word": "alleen",
+    "translation": "on my own",
+    "example_sentence": "Ik woon alleen."
+  },
+  {
+    "word": "appen",
+    "translation": "to send a text message",
+    "example_sentence": "Ik app je later."
+  },
+  {
+    "word": "buren",
+    "translation": "neighbours",
+    "example_sentence": "Mijn buren zijn vriendelijk."
+  },
+  {
+    "word": "buurvrouw",
+    "translation": "female neighbour",
+    "example_sentence": "Mijn buurvrouw heet Anna."
+  },
+  {
+    "word": "geen",
+    "translation": "no",
+    "example_sentence": "Ik heb geen auto."
+  },
+  {
+    "word": "getrouwd",
+    "translation": "married",
+    "example_sentence": "Ik ben getrouwd."
+  },
+  {
+    "word": "graag",
+    "translation": "gladly",
+    "example_sentence": "Ik help je graag."
+  },
+  {
+    "word": "hobby",
+    "translation": "hobby",
+    "example_sentence": "Mijn hobby is lezen."
+  },
+  {
+    "word": "houden van",
+    "translation": "to love",
+    "example_sentence": "Ik houd van koffie."
+  },
+  {
+    "word": "huis",
+    "translation": "house",
+    "example_sentence": "Ik woon in een huis."
+  },
+  {
+    "word": "jullie",
+    "translation": "you",
+    "example_sentence": "Jullie zijn welkom."
+  },
+  {
+    "word": "kind",
+    "translation": "child",
+    "example_sentence": "Ik heb een kind."
+  },
+  {
+    "word": "koken",
+    "translation": "to cook",
+    "example_sentence": "Ik kook graag."
+  },
+  {
+    "word": "met",
+    "translation": "with",
+    "example_sentence": "Ik ga met je mee."
+  },
+  {
+    "word": "nog",
+    "translation": "yet",
+    "example_sentence": "Ik ben nog niet klaar."
+  },
+  {
+    "word": "ontmoeten",
+    "translation": "to meet",
+    "example_sentence": "Ik ontmoet je morgen."
+  },
+  {
+    "word": "oud",
+    "translation": "old",
+    "example_sentence": "Mijn auto is oud."
+  },
+  {
+    "word": "poes",
+    "translation": "cat",
+    "example_sentence": "Ik heb een poes."
+  },
+  {
+    "word": "restaurant",
+    "translation": "restaurant",
+    "example_sentence": "We eten in een restaurant."
+  },
+  {
+    "word": "sporten",
+    "translation": "to do sports",
+    "example_sentence": "Ik sport elke dag."
+  },
+  {
+    "word": "week",
+    "translation": "week",
+    "example_sentence": "Ik werk vijf dagen per week."
+  },
+  {
+    "word": "weekend",
+    "translation": "weekend",
+    "example_sentence": "Ik ga dit weekend weg."
+  },
+  {
+    "word": "welkom",
+    "translation": "welcome",
+    "example_sentence": "Welkom in Nederland!"
+  },
+  {
+    "word": "wie",
+    "translation": "who",
+    "example_sentence": "Wie ben je?"
+  },
+  {
+    "word": "willen",
+    "translation": "to want",
+    "example_sentence": "Ik wil koffie."
+  },
+  {
+    "word": "ander",
+    "translation": "other",
+    "example_sentence": "Ik heb een andere auto."
+  },
+  {
+    "word": "appel",
+    "translation": "apple",
+    "example_sentence": "Ik eet een appel."
+  },
+  {
+    "word": "banaan",
+    "translation": "banana",
+    "example_sentence": "Ik koop bananen."
+  },
+  {
+    "word": "bijna",
+    "translation": "almost",
+    "example_sentence": "Ik ben bijna thuis."
+  },
+  {
+    "word": "boodschappen",
+    "translation": "groceries",
+    "example_sentence": "Ik doe boodschappen."
+  },
+  {
+    "word": "doen",
+    "translation": "to do",
+    "example_sentence": "Wat doe je?"
+  },
+  {
+    "word": "dus",
+    "translation": "so",
+    "example_sentence": "Dus je komt morgen?"
+  },
+  {
+    "word": "eten",
+    "translation": "food",
+    "example_sentence": "Het eten is lekker."
+  },
+  {
+    "word": "fruit",
+    "translation": "fruit",
+    "example_sentence": "Ik eet veel fruit."
+  },
+  {
+    "word": "groente",
+    "translation": "vegetable",
+    "example_sentence": "Ik koop groente."
+  },
+  {
+    "word": "kip",
+    "translation": "chicken",
+    "example_sentence": "Ik eet kip."
+  },
+  {
+    "word": "kopen",
+    "translation": "to buy",
+    "example_sentence": "Ik koop brood."
+  },
+  {
+    "word": "lijst",
+    "translation": "list",
+    "example_sentence": "Ik maak een lijst."
+  },
+  {
+    "word": "maken",
+    "translation": "to make",
+    "example_sentence": "Ik maak koffie."
+  },
+  {
+    "word": "markt",
+    "translation": "market",
+    "example_sentence": "Ik ga naar de markt."
+  },
+  {
+    "word": "meer",
+    "translation": "more",
+    "example_sentence": "Ik wil meer koffie."
+  },
+  {
+    "word": "of",
+    "translation": "or",
+    "example_sentence": "Koffie of thee?"
+  },
+  {
+    "word": "praten",
+    "translation": "to talk",
+    "example_sentence": "Ik praat Nederlands."
+  },
+  {
+    "word": "rijst",
+    "translation": "rice",
+    "example_sentence": "Ik eet rijst."
+  },
+  {
+    "word": "supermarkt",
+    "translation": "supermarket",
+    "example_sentence": "Ik ga naar de supermarkt."
+  },
+  {
+    "word": "thuis",
+    "translation": "at home",
+    "example_sentence": "Ik ben thuis."
+  },
+  {
+    "word": "tomaat",
+    "translation": "tomato",
+    "example_sentence": "Ik koop tomaten."
+  },
+  {
+    "word": "vis",
+    "translation": "fish",
+    "example_sentence": "Ik eet vis."
+  },
+  {
+    "word": "vlees",
+    "translation": "meat",
+    "example_sentence": "Ik eet vlees."
+  },
+  {
+    "word": "we",
+    "translation": "we",
+    "example_sentence": "We gaan naar huis."
+  },
+  {
+    "word": "wortel",
+    "translation": "carrot",
+    "example_sentence": "Ik eet wortels."
+  },
+  {
+    "word": "aardappel",
+    "translation": "potato",
+    "example_sentence": "Ik kook aardappelen."
+  },
+  {
+    "word": "alsjeblieft",
+    "translation": "please",
+    "example_sentence": "Alsjeblieft, hier is je koffie."
+  },
+  {
+    "word": "alstublieft",
+    "translation": "please",
+    "example_sentence": "Alstublieft, hier is uw koffie."
+  },
+  {
+    "word": "anders",
+    "translation": "else",
+    "example_sentence": "Wat anders?"
+  },
+  {
+    "word": "dag",
+    "translation": "bye",
+    "example_sentence": "Dag, tot ziens!"
+  },
+  {
+    "word": "dan",
+    "translation": "then",
+    "example_sentence": "Dan ga ik naar huis."
+  },
+  {
+    "word": "ei",
+    "translation": "egg",
+    "example_sentence": "Ik eet een ei."
+  },
+  {
+    "word": "fijn",
+    "translation": "nice",
+    "example_sentence": "Dat is fijn!"
+  },
+  {
+    "word": "goed",
+    "translation": "good",
+    "example_sentence": "Dat is goed."
+  },
+  {
+    "word": "gram",
+    "translation": "gram",
+    "example_sentence": "Ik koop 500 gram kaas."
+  },
+  {
+    "word": "hoeveel",
+    "translation": "how much",
+    "example_sentence": "Hoeveel kost het?"
+  },
+  {
+    "word": "iets",
+    "translation": "something",
+    "example_sentence": "Ik wil iets drinken."
+  },
+  {
+    "word": "jammer",
+    "translation": "too bad",
+    "example_sentence": "Dat is jammer."
+  },
+  {
+    "word": "kaas",
+    "translation": "cheese",
+    "example_sentence": "Ik eet kaas."
+  },
+  {
+    "word": "kijken",
+    "translation": "to look",
+    "example_sentence": "Ik kijk naar je."
+  },
+  {
+    "word": "kilo",
+    "translation": "kilo",
+    "example_sentence": "Ik koop een kilo appels."
+  },
+  {
+    "word": "mevrouw",
+    "translation": "madam",
+    "example_sentence": "Goedemorgen, mevrouw."
+  },
+  {
+    "word": "mogen",
+    "translation": "to may",
+    "example_sentence": "Mag ik binnenkomen?"
+  },
+  {
+    "word": "nee",
+    "translation": "no",
+    "example_sentence": "Nee, dat klopt niet."
+  },
+  {
+    "word": "nemen",
+    "translation": "to take",
+    "example_sentence": "Ik neem een koffie."
+  },
+  {
+    "word": "pinnen",
+    "translation": "to pay by debit card",
+    "example_sentence": "Ik pin het bedrag."
+  },
+  {
+    "word": "verkoper",
+    "translation": "seller",
+    "example_sentence": "De verkoper is vriendelijk."
+  },
+  {
+    "word": "voor",
+    "translation": "for",
+    "example_sentence": "Dit is voor jou."
+  },
+  {
+    "word": "zeggen",
+    "translation": "to say",
+    "example_sentence": "Wat zeg je?"
+  },
+  {
+    "word": "altijd",
+    "translation": "always",
+    "example_sentence": "Ik kom altijd op tijd."
+  },
+  {
+    "word": "bakker",
+    "translation": "baker",
+    "example_sentence": "De bakker verkoopt brood."
+  },
+  {
+    "word": "brood",
+    "translation": "bread",
+    "example_sentence": "Ik koop vers brood."
+  },
+  {
+    "word": "buurt",
+    "translation": "neighbourhood",
+    "example_sentence": "Ik woon in een rustige buurt."
+  },
+  {
+    "word": "dinsdag",
+    "translation": "Tuesday",
+    "example_sentence": "Ik werk op dinsdag."
+  },
+  {
+    "word": "duur",
+    "translation": "expensive",
+    "example_sentence": "Dat is te duur."
+  },
+  {
+    "word": "goedkoop",
+    "translation": "cheap",
+    "example_sentence": "Dit is goedkoop."
+  },
+  {
+    "word": "halen",
+    "translation": "to get",
+    "example_sentence": "Ik haal brood."
+  },
+  {
+    "word": "hier",
+    "translation": "here",
+    "example_sentence": "Ik ben hier."
+  },
+  {
+    "word": "hoor",
+    "translation": "that's fine",
+    "example_sentence": "Dat is goed hoor."
+  },
+  {
+    "word": "kennen",
+    "translation": "to know",
+    "example_sentence": "Ik ken hem niet."
+  },
+  {
+    "word": "meestal",
+    "translation": "usually",
+    "example_sentence": "Ik kom meestal op tijd."
+  },
+  {
+    "word": "middag",
+    "translation": "afternoon",
+    "example_sentence": "Ik eet 's middags."
+  },
+  {
+    "word": "natuurlijk",
+    "translation": "of course",
+    "example_sentence": "Natuurlijk, dat kan."
+  },
+  {
+    "word": "ochtend",
+    "translation": "morning",
+    "example_sentence": "Ik sta 's ochtends vroeg op."
+  },
+  {
+    "word": "soms",
+    "translation": "sometimes",
+    "example_sentence": "Ik ga soms naar de bioscoop."
+  },
+  {
+    "word": "straat",
+    "translation": "street",
+    "example_sentence": "Ik woon in deze straat."
+  },
+  {
+    "word": "veel",
+    "translation": "many",
+    "example_sentence": "Ik heb veel vrienden."
+  },
+  {
+    "word": "ver",
+    "translation": "far",
+    "example_sentence": "Dat is ver weg."
+  },
+  {
+    "word": "vers",
+    "translation": "fresh",
+    "example_sentence": "Ik koop verse groente."
+  },
+  {
+    "word": "vragen",
+    "translation": "to ask",
+    "example_sentence": "Ik vraag je iets."
+  },
+  {
+    "word": "wanneer",
+    "translation": "when",
+    "example_sentence": "Wanneer kom je?"
+  },
+  {
+    "word": "wel",
+    "translation": "on the other hand",
+    "example_sentence": "Ik kom wel."
+  },
+  {
+    "word": "welk",
+    "translation": "which",
+    "example_sentence": "Welk boek lees je?"
+  },
+  {
+    "word": "zaterdag",
+    "translation": "Saturday",
+    "example_sentence": "Ik ga zaterdag weg."
+  },
+  {
+    "word": "zien",
+    "translation": "to see",
+    "example_sentence": "Ik zie je morgen."
+  },
+  {
+    "word": "chips",
+    "translation": "potato chips",
+    "example_sentence": "Ik eet chips."
+  },
+  {
+    "word": "denken",
+    "translation": "to think",
+    "example_sentence": "Ik denk dat het waar is."
+  },
+  {
+    "word": "dicht",
+    "translation": "closed",
+    "example_sentence": "De winkel is dicht."
+  },
+  {
+    "word": "fietsen",
+    "translation": "to bike",
+    "example_sentence": "Ik fiets naar werk."
+  },
+  {
+    "word": "half",
+    "translation": "half",
+    "example_sentence": "Het is half negen."
+  },
+  {
+    "word": "internet",
+    "translation": "internet",
+    "example_sentence": "Ik gebruik internet."
+  },
+  {
+    "word": "keuken",
+    "translation": "kitchen",
+    "example_sentence": "Ik kook in de keuken."
+  },
+  {
+    "word": "laat",
+    "translation": "late",
+    "example_sentence": "Het is laat."
+  },
+  {
+    "word": "leeg",
+    "translation": "empty",
+    "example_sentence": "De fles is leeg."
+  },
+  {
+    "word": "liggen",
+    "translation": "to lie",
+    "example_sentence": "Ik lig in bed."
+  },
+  {
+    "word": "maandag",
+    "translation": "Monday",
+    "example_sentence": "Ik begin maandag."
+  },
+  {
+    "word": "open",
+    "translation": "open",
+    "example_sentence": "De deur is open."
+  },
+  {
+    "word": "openingstijden",
+    "translation": "opening hours",
+    "example_sentence": "Wat zijn de openingstijden?"
+  },
+  {
+    "word": "s avonds",
+    "translation": "in the evening",
+    "example_sentence": "Ik eet 's avonds."
+  },
+  {
+    "word": "s middags",
+    "translation": "in the afternoon",
+    "example_sentence": "Ik werk 's middags."
+  },
+  {
+    "word": "s morgens",
+    "translation": "in the morning",
+    "example_sentence": "Ik sta 's morgens op."
+  },
+  {
+    "word": "s nachts",
+    "translation": "at night",
+    "example_sentence": "Ik slaap 's nachts."
+  },
+  {
+    "word": "s ochtends",
+    "translation": "in the morning",
+    "example_sentence": "Ik drink 's ochtends koffie."
+  },
+  {
+    "word": "snel",
+    "translation": "fast",
+    "example_sentence": "Je bent snel."
+  },
+  {
+    "word": "tot",
+    "translation": "until",
+    "example_sentence": "Ik werk tot vijf uur."
+  },
+  {
+    "word": "uur",
+    "translation": "o'clock",
+    "example_sentence": "Het is drie uur."
+  },
+  {
+    "word": "weten",
+    "translation": "to know",
+    "example_sentence": "Ik weet het niet."
+  },
+  {
+    "word": "zak",
+    "translation": "bag",
+    "example_sentence": "Ik heb een zak."
+  },
+  {
+    "word": "alles",
+    "translation": "everything",
+    "example_sentence": "Ik heb alles."
+  },
+  {
+    "word": "beterschap",
+    "translation": "get well soon",
+    "example_sentence": "Beterschap!"
+  },
+  {
+    "word": "bezig",
+    "translation": "busy",
+    "example_sentence": "Ik ben bezig."
+  },
+  {
+    "word": "broer",
+    "translation": "brother",
+    "example_sentence": "Mijn broer is oud."
+  },
+  {
+    "word": "daar",
+    "translation": "there",
+    "example_sentence": "Ik ga daar naartoe."
+  },
+  {
+    "word": "druk",
+    "translation": "busy",
+    "example_sentence": "Het is druk hier."
+  },
+  {
+    "word": "een beetje",
+    "translation": "a little bit",
+    "example_sentence": "Ik spreek een beetje Nederlands."
+  },
+  {
+    "word": "eindelijk",
+    "translation": "finally",
+    "example_sentence": "Eindelijk ben je er!"
+  },
+  {
+    "word": "groet",
+    "translation": "greeting",
+    "example_sentence": "Doe de groeten!"
+  },
+  {
+    "word": "lekker",
+    "translation": "nice",
+    "example_sentence": "Het eten is lekker."
+  },
+  {
+    "word": "lopen",
+    "translation": "to walk",
+    "example_sentence": "Ik loop naar huis."
+  },
+  {
+    "word": "moeder",
+    "translation": "mother",
+    "example_sentence": "Mijn moeder kookt goed."
+  },
+  {
+    "word": "morgen",
+    "translation": "tomorrow",
+    "example_sentence": "Ik kom morgen."
+  },
+  {
+    "word": "paracetamol",
+    "translation": "paracetamol",
+    "example_sentence": "Ik neem paracetamol."
+  },
+  {
+    "word": "prima",
+    "translation": "fine",
+    "example_sentence": "Dat is prima."
+  },
+  {
+    "word": "steeds",
+    "translation": "still",
+    "example_sentence": "Ik kom steeds te laat."
+  },
+  {
+    "word": "vervelend",
+    "translation": "unpleasant",
+    "example_sentence": "Dat is vervelend."
+  },
+  {
+    "word": "vriend",
+    "translation": "friend",
+    "example_sentence": "Hij is mijn vriend."
+  },
+  {
+    "word": "vriendin",
+    "translation": "friend",
+    "example_sentence": "Zij is mijn vriendin."
+  },
+  {
+    "word": "waarom",
+    "translation": "why",
+    "example_sentence": "Waarom kom je niet?"
+  },
+  {
+    "word": "warm",
+    "translation": "warm",
+    "example_sentence": "Het is warm vandaag."
+  },
+  {
+    "word": "weer",
+    "translation": "weather",
+    "example_sentence": "Het weer is slecht."
+  },
+  {
+    "word": "worden",
+    "translation": "to become",
+    "example_sentence": "Ik word dokter."
+  },
+  {
+    "word": "ziek",
+    "translation": "ill",
+    "example_sentence": "Ik ben ziek."
+  },
+  {
+    "word": "zo",
+    "translation": "so",
+    "example_sentence": "Zo is het goed."
+  },
+  {
+    "word": "zon",
+    "translation": "sun",
+    "example_sentence": "De zon schijnt."
+  },
+  {
+    "word": "zus",
+    "translation": "sister",
+    "example_sentence": "Mijn zus is jong."
+  },
+  {
+    "word": "bezoek",
+    "translation": "visit",
+    "example_sentence": "Ik krijg bezoek."
+  },
+  {
+    "word": "binnenkomen",
+    "translation": "to come in",
+    "example_sentence": "Kom binnen!"
+  },
+  {
+    "word": "drinken",
+    "translation": "to drink",
+    "example_sentence": "Ik drink water."
+  },
+  {
+    "word": "eruitzien",
+    "translation": "to look",
+    "example_sentence": "Je ziet er goed uit."
+  },
+  {
+    "word": "geven",
+    "translation": "to give",
+    "example_sentence": "Ik geef je een boek."
+  },
+  {
+    "word": "horen",
+    "translation": "to hear",
+    "example_sentence": "Ik hoor je niet."
+  },
+  {
+    "word": "huilen",
+    "translation": "to cry",
+    "example_sentence": "Het kind huilt."
+  },
+  {
+    "word": "jas",
+    "translation": "coat",
+    "example_sentence": "Ik draag een jas."
+  },
+  {
+    "word": "jongen",
+    "translation": "boy",
+    "example_sentence": "De jongen speelt."
+  },
+  {
+    "word": "klein",
+    "translation": "little",
+    "example_sentence": "Het huis is klein."
+  },
+  {
+    "word": "koffie",
+    "translation": "coffee",
+    "example_sentence": "Ik drink koffie."
+  },
+  {
+    "word": "lachen",
+    "translation": "to laugh",
+    "example_sentence": "Ik lach veel."
+  },
+  {
+    "word": "lief",
+    "translation": "sweet",
+    "example_sentence": "Je bent lief."
+  },
+  {
+    "word": "melk",
+    "translation": "milk",
+    "example_sentence": "Ik drink melk."
+  },
+  {
+    "word": "moe",
+    "translation": "tired",
+    "example_sentence": "Ik ben moe."
+  },
+  {
+    "word": "slapen",
+    "translation": "to sleep",
+    "example_sentence": "Ik slaap goed."
+  },
+  {
+    "word": "suiker",
+    "translation": "sugar",
+    "example_sentence": "Ik gebruik suiker."
+  },
+  {
+    "word": "thee",
+    "translation": "tea",
+    "example_sentence": "Ik drink thee."
+  },
+  {
+    "word": "zelf",
+    "translation": "self",
+    "example_sentence": "Ik doe het zelf."
+  },
+  {
+    "word": "zitten",
+    "translation": "to sit",
+    "example_sentence": "Ik zit op een stoel."
+  },
+  {
+    "word": "zonder",
+    "translation": "without",
+    "example_sentence": "Ik ga zonder jou."
+  },
+  {
+    "word": "zwart",
+    "translation": "black",
+    "example_sentence": "Ik draag zwarte kleren."
+  },
+  {
+    "word": "avond",
+    "translation": "evening",
+    "example_sentence": "Ik eet 's avonds."
+  },
+  {
+    "word": "beginnen",
+    "translation": "to start",
+    "example_sentence": "Ik begin morgen."
+  },
+  {
+    "word": "begrijpen",
+    "translation": "to understand",
+    "example_sentence": "Ik begrijp het niet."
+  },
+  {
+    "word": "bellen",
+    "translation": "to call",
+    "example_sentence": "Ik bel je later."
+  },
+  {
+    "word": "bier",
+    "translation": "beer",
+    "example_sentence": "Ik drink bier."
+  },
+  {
+    "word": "blijven",
+    "translation": "to stay",
+    "example_sentence": "Ik blijf hier."
+  },
+  {
+    "word": "deze",
+    "translation": "this",
+    "example_sentence": "Deze auto is nieuw."
+  },
+  {
+    "word": "die",
+    "translation": "those",
+    "example_sentence": "Die boeken zijn interessant."
+  },
+  {
+    "word": "echt",
+    "translation": "really",
+    "example_sentence": "Dat is echt waar."
+  },
+  {
+    "word": "eten",
+    "translation": "to eat",
+    "example_sentence": "Ik eet graag."
+  },
+  {
+    "word": "genoeg",
+    "translation": "enough",
+    "example_sentence": "Ik heb genoeg."
+  },
+  {
+    "word": "gezellig",
+    "translation": "nice",
+    "example_sentence": "Het is gezellig hier."
+  },
+  {
+    "word": "heel",
+    "translation": "whole",
+    "example_sentence": "Ik eet de hele appel."
+  },
+  {
+    "word": "keer",
+    "translation": "occasion",
+    "example_sentence": "Ik kom een keer."
+  },
+  {
+    "word": "later",
+    "translation": "later",
+    "example_sentence": "Ik kom later."
+  },
+  {
+    "word": "lawaai",
+    "translation": "noise",
+    "example_sentence": "Er is veel lawaai."
+  },
+  {
+    "word": "luisteren",
+    "translation": "to listen",
+    "example_sentence": "Ik luister naar muziek."
+  },
+  {
+    "word": "rustig",
+    "translation": "quiet",
+    "example_sentence": "Het is rustig hier."
+  },
+  {
+    "word": "uitnodigen",
+    "translation": "to invite",
+    "example_sentence": "Ik nodig je uit."
+  },
+  {
+    "word": "vakantie",
+    "translation": "holiday",
+    "example_sentence": "Ik ga op vakantie."
+  },
+  {
+    "word": "voetbal",
+    "translation": "football",
+    "example_sentence": "Ik speel voetbal."
+  },
+  {
+    "word": "vrijdag",
+    "translation": "Friday",
+    "example_sentence": "Ik werk op vrijdag."
+  },
+  {
+    "word": "weer",
+    "translation": "again",
+    "example_sentence": "Ik kom weer."
+  },
+  {
+    "word": "weg",
+    "translation": "away",
+    "example_sentence": "Ik ga weg."
+  },
+  {
+    "word": "afgesproken",
+    "translation": "it's a deal",
+    "example_sentence": "Afgesproken!"
+  },
+  {
+    "word": "afspraak",
+    "translation": "appointment",
+    "example_sentence": "Ik heb een afspraak."
+  },
+  {
+    "word": "baan",
+    "translation": "job",
+    "example_sentence": "Ik heb een nieuwe baan."
+  },
+  {
+    "word": "bericht",
+    "translation": "message",
+    "example_sentence": "Ik stuur een bericht."
+  },
+  {
+    "word": "blij",
+    "translation": "happy",
+    "example_sentence": "Ik ben blij."
+  },
+  {
+    "word": "februari",
+    "translation": "February",
+    "example_sentence": "Ik ben geboren in februari."
+  },
+  {
+    "word": "feestje",
+    "translation": "party",
+    "example_sentence": "Ik ga naar een feestje."
+  },
+  {
+    "word": "feliciteren",
+    "translation": "to congratulate",
+    "example_sentence": "Ik feliciteer je."
+  },
+  {
+    "word": "gauw",
+    "translation": "soon",
+    "example_sentence": "Ik kom gauw."
+  },
+  {
+    "word": "gefeliciteerd",
+    "translation": "congratulations",
+    "example_sentence": "Gefeliciteerd!"
+  },
+  {
+    "word": "geleden",
+    "translation": "ago",
+    "example_sentence": "Ik kwam een week geleden."
+  },
+  {
+    "word": "januari",
+    "translation": "January",
+    "example_sentence": "Ik begin in januari."
+  },
+  {
+    "word": "jarig",
+    "translation": "having a birthday",
+    "example_sentence": "Ik ben jarig vandaag."
+  },
+  {
+    "word": "klinken",
+    "translation": "to sound",
+    "example_sentence": "Dat klinkt goed."
+  },
+  {
+    "word": "krijgen",
+    "translation": "to receive",
+    "example_sentence": "Ik krijg een cadeau."
+  },
+  {
+    "word": "misschien",
+    "translation": "maybe",
+    "example_sentence": "Misschien kom ik."
+  },
+  {
+    "word": "net",
+    "translation": "just",
+    "example_sentence": "Ik ben net thuis."
+  },
+  {
+    "word": "nieuws",
+    "translation": "news",
+    "example_sentence": "Ik kijk naar het nieuws."
+  },
+  {
+    "word": "succes",
+    "translation": "success",
+    "example_sentence": "Veel succes!"
+  },
+  {
+    "word": "uitnodiging",
+    "translation": "invitation",
+    "example_sentence": "Ik krijg een uitnodiging."
+  },
+  {
+    "word": "vanavond",
+    "translation": "tonight",
+    "example_sentence": "Ik kom vanavond."
+  },
+  {
+    "word": "vandaag",
+    "translation": "today",
+    "example_sentence": "Ik ben vandaag vrij."
+  },
+  {
+    "word": "verjaardag",
+    "translation": "birthday",
+    "example_sentence": "Ik vier mijn verjaardag."
+  },
+  {
+    "word": "volgend",
+    "translation": "next",
+    "example_sentence": "Ik kom volgende week."
+  },
+  {
+    "word": "zeker",
+    "translation": "definitely",
+    "example_sentence": "Ik kom zeker."
+  },
+  {
+    "word": "allerlei",
+    "translation": "all kinds of",
+    "example_sentence": "Ik koop allerlei dingen."
+  },
+  {
+    "word": "boter",
+    "translation": "butter",
+    "example_sentence": "Ik gebruik boter."
+  },
+  {
+    "word": "fles",
+    "translation": "bottle",
+    "example_sentence": "Ik koop een fles water."
+  },
+  {
+    "word": "gezond",
+    "translation": "healthy",
+    "example_sentence": "Ik eet gezond."
+  },
+  {
+    "word": "groot",
+    "translation": "large",
+    "example_sentence": "Het huis is groot."
+  },
+  {
+    "word": "klaar",
+    "translation": "ready",
+    "example_sentence": "Ik ben klaar."
+  },
+  {
+    "word": "koelkast",
+    "translation": "fridge",
+    "example_sentence": "Ik zet het in de koelkast."
+  },
+  {
+    "word": "langs",
+    "translation": "by",
+    "example_sentence": "Ik kom langs."
+  },
+  {
+    "word": "meenemen",
+    "translation": "to bring along",
+    "example_sentence": "Ik neem je mee."
+  },
+  {
+    "word": "moeten",
+    "translation": "to have to",
+    "example_sentence": "Ik moet werken."
+  },
+  {
+    "word": "niks",
+    "translation": "nothing",
+    "example_sentence": "Ik heb niks."
+  },
+  {
+    "word": "nodig",
+    "translation": "need",
+    "example_sentence": "Ik heb het nodig."
+  },
+  {
+    "word": "over",
+    "translation": "in",
+    "example_sentence": "Ik praat over werk."
+  },
+  {
+    "word": "soep",
+    "translation": "soup",
+    "example_sentence": "Ik eet soep."
+  },
+  {
+    "word": "staan",
+    "translation": "to stand",
+    "example_sentence": "Ik sta op."
+  },
+  {
+    "word": "straks",
+    "translation": "later",
+    "example_sentence": "Ik kom straks."
+  },
+  {
+    "word": "toetje",
+    "translation": "dessert",
+    "example_sentence": "Ik eet een toetje."
+  },
+  {
+    "word": "ui",
+    "translation": "onion",
+    "example_sentence": "Ik koop uien."
+  },
+  {
+    "word": "vinden",
+    "translation": "to find",
+    "example_sentence": "Ik vind het niet."
+  },
+  {
+    "word": "water",
+    "translation": "water",
+    "example_sentence": "Ik drink water."
+  },
+  {
+    "word": "wijn",
+    "translation": "wine",
+    "example_sentence": "Ik drink wijn."
+  },
+  {
+    "word": "yoghurt",
+    "translation": "yogurt",
+    "example_sentence": "Ik eet yoghurt."
+  },
+  {
+    "word": "zout",
+    "translation": "salt",
+    "example_sentence": "Ik gebruik zout."
+  },
+  {
+    "word": "avondeten",
+    "translation": "dinner",
+    "example_sentence": "Ik eet avondeten."
+  },
+  {
+    "word": "boterham",
+    "translation": "sandwich",
+    "example_sentence": "Ik eet een boterham."
+  },
+  {
+    "word": "broodje",
+    "translation": "sandwich",
+    "example_sentence": "Ik koop een broodje."
+  },
+  {
+    "word": "ding",
+    "translation": "thing",
+    "example_sentence": "Ik heb veel dingen."
+  },
+  {
+    "word": "doordeweeks",
+    "translation": "during the week",
+    "example_sentence": "Ik werk doordeweeks."
+  },
+  {
+    "word": "gek",
+    "translation": "crazy",
+    "example_sentence": "Dat is gek."
+  },
+  {
+    "word": "havermout",
+    "translation": "oatmeal",
+    "example_sentence": "Ik eet havermout."
+  },
+  {
+    "word": "jam",
+    "translation": "jam",
+    "example_sentence": "Ik eet jam op brood."
+  },
+  {
+    "word": "koud",
+    "translation": "cold",
+    "example_sentence": "Het is koud vandaag."
+  },
+  {
+    "word": "lijken",
+    "translation": "to seem",
+    "example_sentence": "Het lijkt goed."
+  },
+  {
+    "word": "lunchen",
+    "translation": "to have lunch",
+    "example_sentence": "Ik lunch om twaalf uur."
+  },
+  {
+    "word": "Nederlander",
+    "translation": "Dutchman",
+    "example_sentence": "Ik ben een Nederlander."
+  },
+  {
+    "word": "noedels",
+    "translation": "noodles",
+    "example_sentence": "Ik eet noedels."
+  },
+  {
+    "word": "nooit",
+    "translation": "never",
+    "example_sentence": "Ik kom nooit te laat."
+  },
+  {
+    "word": "ontbijt",
+    "translation": "breakfast",
+    "example_sentence": "Ik eet ontbijt."
+  },
+  {
+    "word": "pasta",
+    "translation": "pasta",
+    "example_sentence": "Ik kook pasta."
+  },
+  {
+    "word": "salade",
+    "translation": "salad",
+    "example_sentence": "Ik eet een salade."
+  },
+  {
+    "word": "sinaasappelsap",
+    "translation": "orange juice",
+    "example_sentence": "Ik drink sinaasappelsap."
+  },
+  {
+    "word": "trein",
+    "translation": "train",
+    "example_sentence": "Ik neem de trein."
+  },
+  {
+    "word": "tussen",
+    "translation": "between",
+    "example_sentence": "Ik zit tussen jullie."
+  },
+  {
+    "word": "vaak",
+    "translation": "often",
+    "example_sentence": "Ik kom vaak hier."
+  },
+  {
+    "word": "vanmiddag",
+    "translation": "this afternoon",
+    "example_sentence": "Ik kom vanmiddag."
+  },
+  {
+    "word": "vegetariër",
+    "translation": "vegetarian",
+    "example_sentence": "Ik ben vegetariër."
+  },
+  {
+    "word": "zoet",
+    "translation": "sweet",
+    "example_sentence": "Het is zoet."
+  },
+  {
+    "word": "zout",
+    "translation": "salty",
+    "example_sentence": "Het is zout."
+  },
+  {
+    "word": "advies",
+    "translation": "advice",
+    "example_sentence": "Ik geef je advies."
+  },
+  {
+    "word": "afvallen",
+    "translation": "to lose weight",
+    "example_sentence": "Ik wil afvallen."
+  },
+  {
+    "word": "bewegen",
+    "translation": "to move",
+    "example_sentence": "Ik beweeg veel."
+  },
+  {
+    "word": "buik",
+    "translation": "belly",
+    "example_sentence": "Ik heb pijn in mijn buik."
+  },
+  {
+    "word": "cola",
+    "translation": "cola",
+    "example_sentence": "Ik drink cola."
+  },
+  {
+    "word": "dik",
+    "translation": "big",
+    "example_sentence": "Het boek is dik."
+  },
+  {
+    "word": "frisdrank",
+    "translation": "soda",
+    "example_sentence": "Ik drink frisdrank."
+  },
+  {
+    "word": "gelijk hebben",
+    "translation": "to be right",
+    "example_sentence": "Je hebt gelijk."
+  },
+  {
+    "word": "hamburger",
+    "translation": "hamburger",
+    "example_sentence": "Ik eet een hamburger."
+  },
+  {
+    "word": "ieder",
+    "translation": "every",
+    "example_sentence": "Iedere dag ga ik naar werk."
+  },
+  {
+    "word": "leven",
+    "translation": "to live",
+    "example_sentence": "Ik leef in Amsterdam."
+  },
+  {
+    "word": "meer",
+    "translation": "more",
+    "example_sentence": "Ik wil meer koffie."
+  },
+  {
+    "word": "minder",
+    "translation": "less",
+    "example_sentence": "Ik eet minder vlees."
+  },
+  {
+    "word": "ongezond",
+    "translation": "unhealthy",
+    "example_sentence": "Dat is ongezond."
+  },
+  {
+    "word": "pakken",
+    "translation": "to grab",
+    "example_sentence": "Ik pak mijn tas."
+  },
+  {
+    "word": "patat",
+    "translation": "fries",
+    "example_sentence": "Ik eet patat."
+  },
+  {
+    "word": "probleem",
+    "translation": "problem",
+    "example_sentence": "Ik heb een probleem."
+  },
+  {
+    "word": "snappen",
+    "translation": "to understand",
+    "example_sentence": "Ik snap het niet."
+  },
+  {
+    "word": "sporten",
+    "translation": "to do sports",
+    "example_sentence": "Ik sport elke dag."
+  },
+  {
+    "word": "toch",
+    "translation": "don't you?",
+    "example_sentence": "Je komt toch?"
+  },
+  {
+    "word": "tussendoor",
+    "translation": "in between",
+    "example_sentence": "Ik eet tussendoor."
+  },
+  {
+    "word": "vet",
+    "translation": "fat",
+    "example_sentence": "Het eten is vet."
+  },
+  {
+    "word": "wegen",
+    "translation": "to weigh",
+    "example_sentence": "Ik weeg 70 kilo."
+  },
+  {
+    "word": "weinig",
+    "translation": "little",
+    "example_sentence": "Ik heb weinig tijd."
+  },
+  {
+    "word": "afhalen",
+    "translation": "to take away",
+    "example_sentence": "Ik haal eten af."
+  },
+  {
+    "word": "alle",
+    "translation": "all",
+    "example_sentence": "Alle mensen zijn hier."
+  },
+  {
+    "word": "bestellen",
+    "translation": "to order",
+    "example_sentence": "Ik bestel pizza."
+  },
+  {
+    "word": "bezorgen",
+    "translation": "to deliver",
+    "example_sentence": "Ze bezorgen het eten."
+  },
+  {
+    "word": "bijvoorbeeld",
+    "translation": "for example",
+    "example_sentence": "Bijvoorbeeld, ik eet graag pizza."
+  },
+  {
+    "word": "buiten",
+    "translation": "outdoors",
+    "example_sentence": "Ik ga naar buiten."
+  },
+  {
+    "word": "daarom",
+    "translation": "therefore",
+    "example_sentence": "Daarom kom ik niet."
+  },
+  {
+    "word": "haring",
+    "translation": "herring",
+    "example_sentence": "Ik eet haring."
+  },
+  {
+    "word": "internationaal",
+    "translation": "international",
+    "example_sentence": "Het is een internationale school."
+  },
+  {
+    "word": "laat",
+    "translation": "late",
+    "example_sentence": "Het is laat."
+  },
+  {
+    "word": "land",
+    "translation": "country",
+    "example_sentence": "Nederland is een land."
+  },
+  {
+    "word": "manier",
+    "translation": "manner",
+    "example_sentence": "Op deze manier."
+  },
+  {
+    "word": "mayonaise",
+    "translation": "mayonnaise",
+    "example_sentence": "Ik gebruik mayonaise."
+  },
+  {
+    "word": "mens",
+    "translation": "man",
+    "example_sentence": "De mens is slim."
+  },
+  {
+    "word": "overal",
+    "translation": "everywhere",
+    "example_sentence": "Ik zie mensen overal."
+  },
+  {
+    "word": "plaats",
+    "translation": "space",
+    "example_sentence": "Er is plaats voor jou."
+  },
+  {
+    "word": "proeven",
+    "translation": "to taste",
+    "example_sentence": "Ik proef het eten."
+  },
+  {
+    "word": "reserveren",
+    "translation": "to reserve",
+    "example_sentence": "Ik reserveer een tafel."
+  },
+  {
+    "word": "smaken",
+    "translation": "tastes",
+    "example_sentence": "Het smaakt goed."
+  },
+  {
+    "word": "stamppot",
+    "translation": "mashed potato dish",
+    "example_sentence": "Ik eet stamppot."
+  },
+  {
+    "word": "tafel",
+    "translation": "table",
+    "example_sentence": "Ik zit aan de tafel."
+  },
+  {
+    "word": "terras",
+    "translation": "terrace",
+    "example_sentence": "Ik zit op het terras."
+  },
+  {
+    "word": "typisch",
+    "translation": "typical",
+    "example_sentence": "Dat is typisch Nederlands."
+  },
+  {
+    "word": "verschillend",
+    "translation": "different",
+    "example_sentence": "We zijn verschillend."
+  },
+  {
+    "word": "vroeg",
+    "translation": "early",
+    "example_sentence": "Ik sta vroeg op."
+  },
+  {
+    "word": "zoals",
+    "translation": "such as",
+    "example_sentence": "Zoals ik zei."
+  },
+  {
+    "word": "appartement",
+    "translation": "apartment",
+    "example_sentence": "Ik woon in een appartement."
+  },
+  {
+    "word": "badkamer",
+    "translation": "bathroom",
+    "example_sentence": "De badkamer is groot."
+  },
+  {
+    "word": "balkon",
+    "translation": "balcony",
+    "example_sentence": "Ik ga naar het balkon."
+  },
+  {
+    "word": "betalen",
+    "translation": "to pay",
+    "example_sentence": "Ik betaal de rekening."
+  },
+  {
+    "word": "centrum",
+    "translation": "centre",
+    "example_sentence": "Ik woon in het centrum."
+  },
+  {
+    "word": "delen",
+    "translation": "to share",
+    "example_sentence": "Ik deel mijn eten."
+  },
+  {
+    "word": "eigen",
+    "translation": "own",
+    "example_sentence": "Ik heb mijn eigen auto."
+  },
+  {
+    "word": "familie",
+    "translation": "family",
+    "example_sentence": "Mijn familie is groot."
+  },
+  {
+    "word": "gebruiken",
+    "translation": "to use",
+    "example_sentence": "Ik gebruik mijn telefoon."
+  },
+  {
+    "word": "gezin",
+    "translation": "family",
+    "example_sentence": "Mijn gezin is klein."
+  },
+  {
+    "word": "hoog",
+    "translation": "high",
+    "example_sentence": "Het gebouw is hoog."
+  },
+  {
+    "word": "huisgenoot",
+    "translation": "roommate",
+    "example_sentence": "Mijn huisgenoot is vriendelijk."
+  },
+  {
+    "word": "huur",
+    "translation": "rent",
+    "example_sentence": "Ik betaal huur."
+  },
+  {
+    "word": "informatie",
+    "translation": "information",
+    "example_sentence": "Ik heb informatie nodig."
+  },
+  {
+    "word": "kamer",
+    "translation": "room",
+    "example_sentence": "Ik heb een grote kamer."
+  },
+  {
+    "word": "maar",
+    "translation": "only",
+    "example_sentence": "Ik heb maar één auto."
+  },
+  {
+    "word": "plek",
+    "translation": "place",
+    "example_sentence": "Dit is een mooie plek."
+  },
+  {
+    "word": "rijtjeshuis",
+    "translation": "row house",
+    "example_sentence": "Ik woon in een rijtjeshuis."
+  },
+  {
+    "word": "slaapkamer",
+    "translation": "bedroom",
+    "example_sentence": "Mijn slaapkamer is klein."
+  },
+  {
+    "word": "tuin",
+    "translation": "garden",
+    "example_sentence": "Ik heb een tuin."
+  },
+  {
+    "word": "verdieping",
+    "translation": "floor",
+    "example_sentence": "Ik woon op de eerste verdieping."
+  },
+  {
+    "word": "vierkante meter",
+    "translation": "square metre",
+    "example_sentence": "Het huis is 100 vierkante meter."
+  },
+  {
+    "word": "vlakbij",
+    "translation": "nearby",
+    "example_sentence": "De winkel is vlakbij."
+  },
+  {
+    "word": "vrijstaand",
+    "translation": "detached",
+    "example_sentence": "Ik woon in een vrijstaand huis."
+  },
+  {
+    "word": "wc",
+    "translation": "toilet",
+    "example_sentence": "Waar is de wc?"
+  },
+  {
+    "word": "bed",
+    "translation": "bed",
+    "example_sentence": "Ik lig in bed."
+  },
+  {
+    "word": "ervaring",
+    "translation": "experience",
+    "example_sentence": "Ik heb veel ervaring."
+  },
+  {
+    "word": "flat",
+    "translation": "block of flats",
+    "example_sentence": "Ik woon in een flat."
+  },
+  {
+    "word": "hulp",
+    "translation": "help",
+    "example_sentence": "Ik heb hulp nodig."
+  },
+  {
+    "word": "klussen",
+    "translation": "to do odd jobs",
+    "example_sentence": "Ik klus in huis."
+  },
+  {
+    "word": "kwijt",
+    "translation": "lost",
+    "example_sentence": "Ik ben mijn sleutel kwijt."
+  },
+  {
+    "word": "laag",
+    "translation": "low",
+    "example_sentence": "De tafel is laag."
+  },
+  {
+    "word": "langskomen",
+    "translation": "to come by",
+    "example_sentence": "Ik kom langs."
+  },
+  {
+    "word": "meisje",
+    "translation": "girl",
+    "example_sentence": "Het meisje speelt."
+  },
+  {
+    "word": "mooi",
+    "translation": "beautiful",
+    "example_sentence": "Het is mooi weer."
+  },
+  {
+    "word": "ongeveer",
+    "translation": "about",
+    "example_sentence": "Het is ongeveer vijf uur."
+  },
+  {
+    "word": "ophalen",
+    "translation": "to pick up",
+    "example_sentence": "Ik haal je op."
+  },
+  {
+    "word": "oppas",
+    "translation": "babysitter",
+    "example_sentence": "Ik heb oppas nodig."
+  },
+  {
+    "word": "prijs",
+    "translation": "price",
+    "example_sentence": "De prijs is hoog."
+  },
+  {
+    "word": "schoonmaken",
+    "translation": "to clean",
+    "example_sentence": "Ik maak het huis schoon."
+  },
+  {
+    "word": "sleutel",
+    "translation": "key",
+    "example_sentence": "Ik heb mijn sleutel."
+  },
+  {
+    "word": "spullen",
+    "translation": "stuff",
+    "example_sentence": "Ik heb veel spullen."
+  },
+  {
+    "word": "stoel",
+    "translation": "chair",
+    "example_sentence": "Ik zit op een stoel."
+  },
+  {
+    "word": "student",
+    "translation": "student",
+    "example_sentence": "Ik ben student."
+  },
+  {
+    "word": "tweedehands",
+    "translation": "second-hand",
+    "example_sentence": "Ik koop tweedehands spullen."
+  },
+  {
+    "word": "verhuizen",
+    "translation": "to move",
+    "example_sentence": "Ik ga verhuizen."
+  },
+  {
+    "word": "verkopen",
+    "translation": "to sell",
+    "example_sentence": "Ik verkoop mijn auto."
+  },
+  {
+    "word": "zoeken",
+    "translation": "to search",
+    "example_sentence": "Ik zoek mijn sleutel."
+  },
+  {
+    "word": "belangrijk",
+    "translation": "important",
+    "example_sentence": "Dat is belangrijk."
+  },
+  {
+    "word": "blauw",
+    "translation": "blue",
+    "example_sentence": "De lucht is blauw."
+  },
+  {
+    "word": "donker",
+    "translation": "dark",
+    "example_sentence": "Het is donker."
+  },
+  {
+    "word": "iedereen",
+    "translation": "everyone",
+    "example_sentence": "Iedereen is hier."
+  },
+  {
+    "word": "kast",
+    "translation": "cabinet",
+    "example_sentence": "Ik heb een kast."
+  },
+  {
+    "word": "kiezen",
+    "translation": "to choose",
+    "example_sentence": "Ik kies een boek."
+  },
+  {
+    "word": "kleding",
+    "translation": "clothing",
+    "example_sentence": "Ik koop kleding."
+  },
+  {
+    "word": "kleur",
+    "translation": "colour",
+    "example_sentence": "Wat is je favoriete kleur?"
+  },
+  {
+    "word": "la",
+    "translation": "drawer",
+    "example_sentence": "Ik open de la."
+  },
+  {
+    "word": "lamp",
+    "translation": "lamp",
+    "example_sentence": "De lamp brandt."
+  },
+  {
+    "word": "licht",
+    "translation": "light",
+    "example_sentence": "Het licht is aan."
+  },
+  {
+    "word": "licht",
+    "translation": "light",
+    "example_sentence": "Het licht is aan."
+  },
+  {
+    "word": "meubel",
+    "translation": "furniture",
+    "example_sentence": "Ik koop meubels."
+  },
+  {
+    "word": "muur",
+    "translation": "wall",
+    "example_sentence": "De muur is wit."
+  },
+  {
+    "word": "onder",
+    "translation": "beneath",
+    "example_sentence": "Het is onder de tafel."
+  },
+  {
+    "word": "raam",
+    "translation": "window",
+    "example_sentence": "Ik open het raam."
+  },
+  {
+    "word": "ruimte",
+    "translation": "space",
+    "example_sentence": "Er is veel ruimte."
+  },
+  {
+    "word": "tegen",
+    "translation": "against",
+    "example_sentence": "Ik leun tegen de muur."
+  },
+  {
+    "word": "tip",
+    "translation": "tip",
+    "example_sentence": "Ik geef je een tip."
+  },
+  {
+    "word": "vloer",
+    "translation": "floor",
+    "example_sentence": "De vloer is schoon."
+  },
+  {
+    "word": "vol",
+    "translation": "full",
+    "example_sentence": "De bus is vol."
+  },
+  {
+    "word": "vooral",
+    "translation": "particularly",
+    "example_sentence": "Ik hou vooral van koffie."
+  },
+  {
+    "word": "wit",
+    "translation": "white",
+    "example_sentence": "De muur is wit."
+  },
+  {
+    "word": "woning",
+    "translation": "home",
+    "example_sentence": "Ik zoek een woning."
+  },
+  {
+    "word": "woonkamer",
+    "translation": "living room",
+    "example_sentence": "Ik zit in de woonkamer."
+  },
+  {
+    "word": "zetten",
+    "translation": "to put",
+    "example_sentence": "Ik zet het op tafel."
+  },
+  {
+    "word": "zorgen voor",
+    "translation": "to create",
+    "example_sentence": "Ik zorg voor je."
+  },
+  {
+    "word": "allebei",
+    "translation": "both",
+    "example_sentence": "We zijn allebei student."
+  },
+  {
+    "word": "allemaal",
+    "translation": "all",
+    "example_sentence": "Jullie zijn allemaal welkom."
+  },
+  {
+    "word": "elkaar",
+    "translation": "each other",
+    "example_sentence": "We helpen elkaar."
+  },
+  {
+    "word": "geld",
+    "translation": "money",
+    "example_sentence": "Ik heb geld nodig."
+  },
+  {
+    "word": "gratis",
+    "translation": "free",
+    "example_sentence": "Het is gratis."
+  },
+  {
+    "word": "huren",
+    "translation": "to rent",
+    "example_sentence": "Ik huur een huis."
+  },
+  {
+    "word": "lang",
+    "translation": "long",
+    "example_sentence": "Het is een lange weg."
+  },
+  {
+    "word": "makkelijk",
+    "translation": "easy",
+    "example_sentence": "Dat is makkelijk."
+  },
+  {
+    "word": "meeste",
+    "translation": "most",
+    "example_sentence": "De meeste mensen zijn hier."
+  },
+  {
+    "word": "moeilijk",
+    "translation": "difficult",
+    "example_sentence": "Dat is moeilijk."
+  },
+  {
+    "word": "ouder",
+    "translation": "parent",
+    "example_sentence": "Mijn ouders zijn thuis."
+  },
+  {
+    "word": "procent",
+    "translation": "percent",
+    "example_sentence": "Het is 50 procent."
+  },
+  {
+    "word": "sparen",
+    "translation": "to save",
+    "example_sentence": "Ik spaar geld."
+  },
+  {
+    "word": "streng",
+    "translation": "strict",
+    "example_sentence": "De leraar is streng."
+  },
+  {
+    "word": "studeren",
+    "translation": "to study",
+    "example_sentence": "Ik studeer Nederlands."
+  },
+  {
+    "word": "studie",
+    "translation": "study",
+    "example_sentence": "Mijn studie is interessant."
+  },
+  {
+    "word": "uitstappen",
+    "translation": "to get off",
+    "example_sentence": "Ik stap uit de bus."
+  },
+  {
+    "word": "vinden",
+    "translation": "to find",
+    "example_sentence": "Ik vind het niet."
+  },
+  {
+    "word": "vrijheid",
+    "translation": "freedom",
+    "example_sentence": "Ik heb vrijheid."
+  },
+  {
+    "word": "wachten",
+    "translation": "to wait",
+    "example_sentence": "Ik wacht op je."
+  },
+  {
+    "word": "was",
+    "translation": "laundry",
+    "example_sentence": "Ik doe de was."
+  },
+  {
+    "word": "wasmachine",
+    "translation": "washing machine",
+    "example_sentence": "Ik gebruik de wasmachine."
+  },
+  {
+    "word": "zelfstandig",
+    "translation": "independent",
+    "example_sentence": "Ik ben zelfstandig."
+  },
+  {
+    "word": "zomer",
+    "translation": "summer",
+    "example_sentence": "In de zomer is het warm."
+  },
+  {
+    "word": "assistente",
+    "translation": "assistant",
+    "example_sentence": "De assistente helpt me."
+  },
+  {
+    "word": "behandelen",
+    "translation": "to treat",
+    "example_sentence": "De dokter behandelt me."
+  },
+  {
+    "word": "dokter",
+    "translation": "doctor",
+    "example_sentence": "Ik ga naar de dokter."
+  },
+  {
+    "word": "dubbel",
+    "translation": "double",
+    "example_sentence": "Het is dubbel."
+  },
+  {
+    "word": "een paar",
+    "translation": "a few",
+    "example_sentence": "Ik heb een paar boeken."
+  },
+  {
+    "word": "ernstig",
+    "translation": "serious",
+    "example_sentence": "Het is ernstig."
+  },
+  {
+    "word": "gegevens",
+    "translation": "data",
+    "example_sentence": "Ik heb je gegevens nodig."
+  },
+  {
+    "word": "gesloten",
+    "translation": "closed",
+    "example_sentence": "De winkel is gesloten."
+  },
+  {
+    "word": "gezondheidszorg",
+    "translation": "healthcare",
+    "example_sentence": "De gezondheidszorg is goed."
+  },
+  {
+    "word": "huisarts",
+    "translation": "general practitioner",
+    "example_sentence": "Ik ga naar de huisarts."
+  },
+  {
+    "word": "huisartsenpost",
+    "translation": "GP out-of-hours service",
+    "example_sentence": "Ik bel de huisartsenpost."
+  },
+  {
+    "word": "klacht",
+    "translation": "complaint",
+    "example_sentence": "Ik heb een klacht."
+  },
+  {
+    "word": "kort",
+    "translation": "short",
+    "example_sentence": "Het is kort."
+  },
+  {
+    "word": "onderzoek",
+    "translation": "examination",
+    "example_sentence": "Ik krijg een onderzoek."
+  },
+  {
+    "word": "praktijk",
+    "translation": "practice",
+    "example_sentence": "De praktijk is dichtbij."
+  },
+  {
+    "word": "sommige",
+    "translation": "some",
+    "example_sentence": "Sommige mensen zijn ziek."
+  },
+  {
+    "word": "specialist",
+    "translation": "specialist",
+    "example_sentence": "Ik ga naar een specialist."
+  },
+  {
+    "word": "spoed",
+    "translation": "emergency",
+    "example_sentence": "Het is spoed."
+  },
+  {
+    "word": "spoedgeval",
+    "translation": "emergency case",
+    "example_sentence": "Het is een spoedgeval."
+  },
+  {
+    "word": "spreekuur",
+    "translation": "consultation hour",
+    "example_sentence": "Het spreekuur is van 9 tot 5."
+  },
+  {
+    "word": "toetsen",
+    "translation": "to press",
+    "example_sentence": "Ik toets de knop."
+  },
+  {
+    "word": "verwijzing",
+    "translation": "referral",
+    "example_sentence": "Ik krijg een verwijzing."
+  },
+  {
+    "word": "via",
+    "translation": "through",
+    "example_sentence": "Ik ga via Amsterdam."
+  },
+  {
+    "word": "ziekenhuis",
+    "translation": "hospital",
+    "example_sentence": "Ik ga naar het ziekenhuis."
+  },
+  {
+    "word": "brengen",
+    "translation": "to bring",
+    "example_sentence": "Ik breng je naar huis."
+  },
+  {
+    "word": "dag",
+    "translation": "day",
+    "example_sentence": "Vandaag is een mooie dag."
+  },
+  {
+    "word": "eigenlijk",
+    "translation": "actually",
+    "example_sentence": "Eigenlijk ben ik moe."
+  },
+  {
+    "word": "geduld",
+    "translation": "patience",
+    "example_sentence": "Ik heb geduld nodig."
+  },
+  {
+    "word": "graad",
+    "translation": "degree",
+    "example_sentence": "Het is 20 graden."
+  },
+  {
+    "word": "hoesten",
+    "translation": "to cough",
+    "example_sentence": "Ik hoest veel."
+  },
+  {
+    "word": "keel",
+    "translation": "throat",
+    "example_sentence": "Ik heb pijn in mijn keel."
+  },
+  {
+    "word": "keelpijn",
+    "translation": "sore throat",
+    "example_sentence": "Ik heb keelpijn."
+  },
+  {
+    "word": "koorts",
+    "translation": "fever",
+    "example_sentence": "Ik heb koorts."
+  },
+  {
+    "word": "lijn",
+    "translation": "line",
+    "example_sentence": "Ik sta in de lijn."
+  },
+  {
+    "word": "mogelijk",
+    "translation": "possible",
+    "example_sentence": "Dat is mogelijk."
+  },
+  {
+    "word": "moment",
+    "translation": "moment",
+    "example_sentence": "Wacht een moment."
+  },
+  {
+    "word": "ogenblik",
+    "translation": "moment",
+    "example_sentence": "Een ogenblik."
+  },
+  {
+    "word": "opnieuw",
+    "translation": "again",
+    "example_sentence": "Ik probeer het opnieuw."
+  },
+  {
+    "word": "overgaan",
+    "translation": "to pass",
+    "example_sentence": "De pijn gaat over."
+  },
+  {
+    "word": "pijn",
+    "translation": "pain",
+    "example_sentence": "Ik heb pijn."
+  },
+  {
+    "word": "spijten",
+    "translation": "to be sorry",
+    "example_sentence": "Het spijt me."
+  },
+  {
+    "word": "spreken",
+    "translation": "to speak",
+    "example_sentence": "Ik spreek Nederlands."
+  },
+  {
+    "word": "vader",
+    "translation": "father",
+    "example_sentence": "Mijn vader is thuis."
+  },
+  {
+    "word": "vanzelf",
+    "translation": "on its own",
+    "example_sentence": "Het gaat vanzelf."
+  },
+  {
+    "word": "verkouden",
+    "translation": "to have a cold",
+    "example_sentence": "Ik ben verkouden."
+  },
+  {
+    "word": "verzetten",
+    "translation": "to reschedule",
+    "example_sentence": "Ik verzet de afspraak."
+  },
+  {
+    "word": "vrij",
+    "translation": "free",
+    "example_sentence": "Ik ben vrij vandaag."
+  },
+  {
+    "word": "apotheek",
+    "translation": "pharmacy",
+    "example_sentence": "Ik ga naar de apotheek."
+  },
+  {
+    "word": "bijsluiter",
+    "translation": "leaflet",
+    "example_sentence": "Ik lees de bijsluiter."
+  },
+  {
+    "word": "doos",
+    "translation": "box",
+    "example_sentence": "Ik pak de doos."
+  },
+  {
+    "word": "dosering",
+    "translation": "dosage",
+    "example_sentence": "Wat is de dosering?"
+  },
+  {
+    "word": "drogist",
+    "translation": "drugstore",
+    "example_sentence": "Ik ga naar de drogist."
+  },
+  {
+    "word": "gebruik",
+    "translation": "use",
+    "example_sentence": "Ik gebruik het medicijn."
+  },
+  {
+    "word": "huismerk",
+    "translation": "private label",
+    "example_sentence": "Ik koop huismerk producten."
+  },
+  {
+    "word": "jong",
+    "translation": "young",
+    "example_sentence": "Ik ben jong."
+  },
+  {
+    "word": "kant",
+    "translation": "side",
+    "example_sentence": "Ik ga naar de andere kant."
+  },
+  {
+    "word": "leeftijd",
+    "translation": "age",
+    "example_sentence": "Wat is je leeftijd?"
+  },
+  {
+    "word": "luier",
+    "translation": "diaper",
+    "example_sentence": "Ik koop luiers."
+  },
+  {
+    "word": "maar",
+    "translation": "only",
+    "example_sentence": "Ik heb maar één auto."
+  },
+  {
+    "word": "maximaal",
+    "translation": "maximally",
+    "example_sentence": "Maximaal 10 mensen."
+  },
+  {
+    "word": "medicijn",
+    "translation": "drug",
+    "example_sentence": "Ik neem medicijnen."
+  },
+  {
+    "word": "merk",
+    "translation": "brand",
+    "example_sentence": "Ik koop een bekend merk."
+  },
+  {
+    "word": "milligram",
+    "translation": "milligram",
+    "example_sentence": "Ik neem 500 milligram."
+  },
+  {
+    "word": "naast",
+    "translation": "next to",
+    "example_sentence": "Ik zit naast je."
+  },
+  {
+    "word": "neus",
+    "translation": "nose",
+    "example_sentence": "Ik heb een verstopte neus."
+  },
+  {
+    "word": "neusspray",
+    "translation": "nasal spray",
+    "example_sentence": "Ik gebruik neusspray."
+  },
+  {
+    "word": "pijnstiller",
+    "translation": "painkiller",
+    "example_sentence": "Ik neem een pijnstiller."
+  },
+  {
+    "word": "proberen",
+    "translation": "to try",
+    "example_sentence": "Ik probeer het."
+  },
+  {
+    "word": "recept",
+    "translation": "prescription",
+    "example_sentence": "Ik heb een recept nodig."
+  },
+  {
+    "word": "rug",
+    "translation": "back",
+    "example_sentence": "Ik heb pijn in mijn rug."
+  },
+  {
+    "word": "verder",
+    "translation": "further",
+    "example_sentence": "Ik ga verder."
+  },
+  {
+    "word": "verschil",
+    "translation": "difference",
+    "example_sentence": "Wat is het verschil?"
+  },
+  {
+    "word": "wakker",
+    "translation": "awake",
+    "example_sentence": "Ik ben wakker."
+  },
+  {
+    "word": "wc-papier",
+    "translation": "toilet paper",
+    "example_sentence": "Ik koop wc-papier."
+  },
+  {
+    "word": "zoon",
+    "translation": "son",
+    "example_sentence": "Mijn zoon is groot."
+  },
+  {
+    "word": "zwaar",
+    "translation": "heavy",
+    "example_sentence": "De tas is zwaar."
+  },
+  {
+    "word": "alcohol",
+    "translation": "alcohol",
+    "example_sentence": "Ik drink geen alcohol."
+  },
+  {
+    "word": "bewaren",
+    "translation": "to save",
+    "example_sentence": "Ik bewaar het eten."
+  },
+  {
+    "word": "bijwerking",
+    "translation": "side effect",
+    "example_sentence": "Ik heb bijwerkingen."
+  },
+  {
+    "word": "borstvoeding",
+    "translation": "breastfeeding",
+    "example_sentence": "Ik geef borstvoeding."
+  },
+  {
+    "word": "boven",
+    "translation": "above",
+    "example_sentence": "Het is boven de tafel."
+  },
+  {
+    "word": "contact",
+    "translation": "contact",
+    "example_sentence": "Ik heb contact met je."
+  },
+  {
+    "word": "erg",
+    "translation": "very",
+    "example_sentence": "Het is erg koud."
+  },
+  {
+    "word": "glas",
+    "translation": "glass",
+    "example_sentence": "Ik drink uit een glas."
+  },
+  {
+    "word": "hardlopen",
+    "translation": "to run",
+    "example_sentence": "Ik ga hardlopen."
+  },
+  {
+    "word": "innemen",
+    "translation": "to take",
+    "example_sentence": "Ik neem het medicijn in."
+  },
+  {
+    "word": "knie",
+    "translation": "knee",
+    "example_sentence": "Ik heb pijn in mijn knie."
+  },
+  {
+    "word": "laatst",
+    "translation": "last",
+    "example_sentence": "Ik kwam laatst."
+  },
+  {
+    "word": "maal",
+    "translation": "times",
+    "example_sentence": "Ik eet drie maal per dag."
+  },
+  {
+    "word": "maaltijd",
+    "translation": "meal",
+    "example_sentence": "Ik eet een maaltijd."
+  },
+  {
+    "word": "misselijk",
+    "translation": "nauseous",
+    "example_sentence": "Ik ben misselijk."
+  },
+  {
+    "word": "nacht",
+    "translation": "night",
+    "example_sentence": "Ik slaap 's nachts."
+  },
+  {
+    "word": "pil",
+    "translation": "pill",
+    "example_sentence": "Ik neem een pil."
+  },
+  {
+    "word": "slaappil",
+    "translation": "sleeping pill",
+    "example_sentence": "Ik neem een slaappil."
+  },
+  {
+    "word": "stress",
+    "translation": "stress",
+    "example_sentence": "Ik heb stress."
+  },
+  {
+    "word": "tablet",
+    "translation": "tablet",
+    "example_sentence": "Ik neem een tablet."
+  },
+  {
+    "word": "tegelijk",
+    "translation": "at the same time",
+    "example_sentence": "We komen tegelijk."
+  },
+  {
+    "word": "tijdens",
+    "translation": "during",
+    "example_sentence": "Ik werk tijdens de dag."
+  },
+  {
+    "word": "verpakking",
+    "translation": "packaging",
+    "example_sentence": "Ik gooi de verpakking weg."
+  },
+  {
+    "word": "zwangerschap",
+    "translation": "pregnancy",
+    "example_sentence": "Ik ben zwanger."
+  },
+  {
+    "word": "afwas",
+    "translation": "dishes",
+    "example_sentence": "Ik doe de afwas."
+  },
+  {
+    "word": "bewoner",
+    "translation": "resident",
+    "example_sentence": "Ik ben bewoner van dit huis."
+  },
+  {
+    "word": "boos",
+    "translation": "angry",
+    "example_sentence": "Ik ben boos."
+  },
+  {
+    "word": "eerlijk",
+    "translation": "fair",
+    "example_sentence": "Dat is eerlijk."
+  },
+  {
+    "word": "geluk",
+    "translation": "luck",
+    "example_sentence": "Ik heb geluk."
+  },
+  {
+    "word": "gewoonte",
+    "translation": "habit",
+    "example_sentence": "Het is een gewoonte."
+  },
+  {
+    "word": "hetzelfde",
+    "translation": "the same",
+    "example_sentence": "We denken hetzelfde."
+  },
+  {
+    "word": "huishouden",
+    "translation": "household",
+    "example_sentence": "Ik doe het huishouden."
+  },
+  {
+    "word": "ideaal",
+    "translation": "ideal",
+    "example_sentence": "Het is ideaal."
+  },
+  {
+    "word": "leven",
+    "translation": "life",
+    "example_sentence": "Het leven is mooi."
+  },
+  {
+    "word": "muziek",
+    "translation": "music",
+    "example_sentence": "Ik luister naar muziek."
+  },
+  {
+    "word": "omgeving",
+    "translation": "environment",
+    "example_sentence": "De omgeving is rustig."
+  },
+  {
+    "word": "oplossen",
+    "translation": "to solve",
+    "example_sentence": "Ik los het probleem op."
+  },
+  {
+    "word": "opschieten met",
+    "translation": "to get along with",
+    "example_sentence": "Ik schiet op met mijn buren."
+  },
+  {
+    "word": "overdag",
+    "translation": "during the day",
+    "example_sentence": "Ik werk overdag."
+  },
+  {
+    "word": "rest",
+    "translation": "rest",
+    "example_sentence": "Ik neem rust."
+  },
+  {
+    "word": "roken",
+    "translation": "to smoke",
+    "example_sentence": "Ik rook niet."
+  },
+  {
+    "word": "ruzie",
+    "translation": "argument",
+    "example_sentence": "We hebben ruzie."
+  },
+  {
+    "word": "schoon",
+    "translation": "clean",
+    "example_sentence": "Het huis is schoon."
+  },
+  {
+    "word": "serieus",
+    "translation": "serious",
+    "example_sentence": "Ik ben serieus."
+  },
+  {
+    "word": "sinds",
+    "translation": "since",
+    "example_sentence": "Sinds gisteren ben ik ziek."
+  },
+  {
+    "word": "uitgaan",
+    "translation": "to go out",
+    "example_sentence": "Ik ga uit."
+  },
+  {
+    "word": "verdelen",
+    "translation": "to divide",
+    "example_sentence": "Ik verdeel het eten."
+  },
+  {
+    "word": "vies",
+    "translation": "dirty",
+    "example_sentence": "Het is vies."
+  },
+  {
+    "word": "weleens",
+    "translation": "sometimes",
+    "example_sentence": "Ik kom weleens te laat."
+  },
+  {
+    "word": "activiteit",
+    "translation": "activity",
+    "example_sentence": "Ik doe een activiteit."
+  },
+  {
+    "word": "begane grond",
+    "translation": "ground floor",
+    "example_sentence": "Ik woon op de begane grond."
+  },
+  {
+    "word": "bibliotheek",
+    "translation": "library",
+    "example_sentence": "Ik ga naar de bibliotheek."
+  },
+  {
+    "word": "buurtcentrum",
+    "translation": "neighbourhood centre",
+    "example_sentence": "Ik ga naar het buurtcentrum."
+  },
+  {
+    "word": "deelnemer",
+    "translation": "participant",
+    "example_sentence": "Ik ben deelnemer."
+  },
+  {
+    "word": "gebeuren",
+    "translation": "to happen",
+    "example_sentence": "Wat gebeurt er?"
+  },
+  {
+    "word": "groep",
+    "translation": "group",
+    "example_sentence": "Ik ben in een groep."
+  },
+  {
+    "word": "hoeven",
+    "translation": "to be necessary",
+    "example_sentence": "Je hoeft niet te komen."
+  },
+  {
+    "word": "iemand",
+    "translation": "someone",
+    "example_sentence": "Ik zie iemand."
+  },
+  {
+    "word": "ingang",
+    "translation": "entrance",
+    "example_sentence": "Waar is de ingang?"
+  },
+  {
+    "word": "krant",
+    "translation": "newspaper",
+    "example_sentence": "Ik lees de krant."
+  },
+  {
+    "word": "medewerkster",
+    "translation": "female employee",
+    "example_sentence": "De medewerkster helpt me."
+  },
+  {
+    "word": "oefenen",
+    "translation": "to practice",
+    "example_sentence": "Ik oefen Nederlands."
+  },
+  {
+    "word": "onderwerp",
+    "translation": "subject",
+    "example_sentence": "Wat is het onderwerp?"
+  },
+  {
+    "word": "organiseren",
+    "translation": "to organize",
+    "example_sentence": "Ik organiseer een feest."
+  },
+  {
+    "word": "precies",
+    "translation": "exactly",
+    "example_sentence": "Dat is precies wat ik bedoel."
+  },
+  {
+    "word": "spelletje",
+    "translation": "game",
+    "example_sentence": "Ik speel een spelletje."
+  },
+  {
+    "word": "taal",
+    "translation": "language",
+    "example_sentence": "Nederlands is een taal."
+  },
+  {
+    "word": "taalcafé",
+    "translation": "language cafe",
+    "example_sentence": "Ik ga naar het taalcafé."
+  },
+  {
+    "word": "taalcoach",
+    "translation": "language coach",
+    "example_sentence": "Ik heb een taalcoach."
+  },
+  {
+    "word": "vanaf",
+    "translation": "starting at",
+    "example_sentence": "Vanaf morgen begin ik."
+  },
+  {
+    "word": "verschillen",
+    "translation": "to differ",
+    "example_sentence": "We verschillen van mening."
+  },
+  {
+    "word": "voorbereiden",
+    "translation": "to prepare",
+    "example_sentence": "Ik bereid me voor."
+  },
+  {
+    "word": "vrijwilliger",
+    "translation": "volunteer",
+    "example_sentence": "Ik ben vrijwilliger."
+  },
+  {
+    "word": "zich aanmelden",
+    "translation": "to sign up",
+    "example_sentence": "Ik meld me aan."
+  },
+  {
+    "word": "bioscoop",
+    "translation": "cinema",
+    "example_sentence": "Ik ga naar de bioscoop."
+  },
+  {
+    "word": "boom",
+    "translation": "tree",
+    "example_sentence": "De boom is groot."
+  },
+  {
+    "word": "buitenland",
+    "translation": "foreign country",
+    "example_sentence": "Ik ga naar het buitenland."
+  },
+  {
+    "word": "café",
+    "translation": "cafe",
+    "example_sentence": "Ik ga naar een café."
+  },
+  {
+    "word": "elk",
+    "translation": "each",
+    "example_sentence": "Elk kind krijgt een cadeau."
+  },
+  {
+    "word": "film",
+    "translation": "film",
+    "example_sentence": "Ik kijk een film."
+  },
+  {
+    "word": "gang",
+    "translation": "corridor",
+    "example_sentence": "Ik loop door de gang."
+  },
+  {
+    "word": "gebouw",
+    "translation": "building",
+    "example_sentence": "Het gebouw is hoog."
+  },
+  {
+    "word": "grasveld",
+    "translation": "lawn",
+    "example_sentence": "Ik speel op het grasveld."
+  },
+  {
+    "word": "groen",
+    "translation": "green",
+    "example_sentence": "Het gras is groen."
+  },
+  {
+    "word": "kletsen",
+    "translation": "to chat",
+    "example_sentence": "Ik klets met je."
+  },
+  {
+    "word": "lift",
+    "translation": "elevator",
+    "example_sentence": "Ik neem de lift."
+  },
+  {
+    "word": "metro",
+    "translation": "subway",
+    "example_sentence": "Ik neem de metro."
+  },
+  {
+    "word": "missen",
+    "translation": "to miss",
+    "example_sentence": "Ik mis de bus."
+  },
+  {
+    "word": "openbaar vervoer",
+    "translation": "public transport",
+    "example_sentence": "Ik gebruik openbaar vervoer."
+  },
+  {
+    "word": "park",
+    "translation": "park",
+    "example_sentence": "Ik ga naar het park."
+  },
+  {
+    "word": "parkeerplaats",
+    "translation": "parking space",
+    "example_sentence": "Ik zoek een parkeerplaats."
+  },
+  {
+    "word": "regelmatig",
+    "translation": "regularly",
+    "example_sentence": "Ik kom regelmatig."
+  },
+  {
+    "word": "speeltuin",
+    "translation": "playground",
+    "example_sentence": "Ik ga naar de speeltuin."
+  },
+  {
+    "word": "spelen",
+    "translation": "to play",
+    "example_sentence": "Ik speel met de kinderen."
+  },
+  {
+    "word": "struik",
+    "translation": "bush",
+    "example_sentence": "De struik is groen."
+  },
+  {
+    "word": "tevreden",
+    "translation": "content",
+    "example_sentence": "Ik ben tevreden."
+  },
+  {
+    "word": "verkeer",
+    "translation": "traffic",
+    "example_sentence": "Er is veel verkeer."
+  },
+  {
+    "word": "voetballen",
+    "translation": "to play football",
+    "example_sentence": "Ik ga voetballen."
+  },
+  {
+    "word": "zoveel",
+    "translation": "that many",
+    "example_sentence": "Ik heb zoveel werk."
+  },
+  {
+    "word": "bang",
+    "translation": "scared",
+    "example_sentence": "Ik ben bang."
+  },
+  {
+    "word": "blaffen",
+    "translation": "to bark",
+    "example_sentence": "De hond blaft."
+  },
+  {
+    "word": "buurman",
+    "translation": "male neighbour",
+    "example_sentence": "Mijn buurman is vriendelijk."
+  },
+  {
+    "word": "gedrag",
+    "translation": "behaviour",
+    "example_sentence": "Het gedrag is goed."
+  },
+  {
+    "word": "geluid",
+    "translation": "sound",
+    "example_sentence": "Ik hoor een geluid."
+  },
+  {
+    "word": "hond",
+    "translation": "dog",
+    "example_sentence": "Ik heb een hond."
+  },
+  {
+    "word": "huisdier",
+    "translation": "pet",
+    "example_sentence": "Ik heb een huisdier."
+  },
+  {
+    "word": "ineens",
+    "translation": "suddenly",
+    "example_sentence": "Ineens regent het."
+  },
+  {
+    "word": "klagen",
+    "translation": "to complain",
+    "example_sentence": "Ik klaag niet."
+  },
+  {
+    "word": "laten",
+    "translation": "to leave",
+    "example_sentence": "Ik laat je alleen."
+  },
+  {
+    "word": "oplossing",
+    "translation": "solution",
+    "example_sentence": "Ik vind een oplossing."
+  },
+  {
+    "word": "overlast",
+    "translation": "nuisance",
+    "example_sentence": "Er is overlast."
+  },
+  {
+    "word": "overleggen",
+    "translation": "to discuss",
+    "example_sentence": "We overleggen samen."
+  },
+  {
+    "word": "schuld",
+    "translation": "debt",
+    "example_sentence": "Ik heb schuld."
+  },
+  {
+    "word": "situatie",
+    "translation": "situation",
+    "example_sentence": "De situatie is moeilijk."
+  },
+  {
+    "word": "stinken",
+    "translation": "to stink",
+    "example_sentence": "Het stinkt hier."
+  },
+  {
+    "word": "trap",
+    "translation": "stairs",
+    "example_sentence": "Ik loop de trap op."
+  },
+  {
+    "word": "uitlaten",
+    "translation": "to walk",
+    "example_sentence": "Ik laat de hond uit."
+  },
+  {
+    "word": "veroorzaken",
+    "translation": "to cause",
+    "example_sentence": "Het veroorzaakt problemen."
+  },
+  {
+    "word": "vuilniszak",
+    "translation": "trash bag",
+    "example_sentence": "Ik gooi de vuilniszak weg."
+  },
+  {
+    "word": "waarschijnlijk",
+    "translation": "probably",
+    "example_sentence": "Het is waarschijnlijk waar."
+  },
+  {
+    "word": "wennen",
+    "translation": "to get used to",
+    "example_sentence": "Ik wen aan het nieuwe huis."
+  },
+  {
+    "word": "woningbouwvereniging",
+    "translation": "housing association",
+    "example_sentence": "Ik woon in een woningbouwvereniging."
+  },
+  {
+    "word": "zielig",
+    "translation": "sad",
+    "example_sentence": "Dat is zielig."
+  },
+  {
+    "word": "zomaar",
+    "translation": "just like that",
+    "example_sentence": "Ik kom zomaar langs."
+  },
+  {
+    "word": "aankomen",
+    "translation": "to arrive",
+    "example_sentence": "Ik kom aan op het station."
+  },
+  {
+    "word": "aankomst",
+    "translation": "arrival",
+    "example_sentence": "Wat is de aankomsttijd?"
+  },
+  {
+    "word": "bedankt",
+    "translation": "thanks",
+    "example_sentence": "Bedankt voor je hulp."
+  },
+  {
+    "word": "centraal",
+    "translation": "central",
+    "example_sentence": "Ik ga naar het centraal station."
+  },
+  {
+    "word": "direct",
+    "translation": "direct",
+    "example_sentence": "Ik ga direct naar huis."
+  },
+  {
+    "word": "gelukkig",
+    "translation": "luckily",
+    "example_sentence": "Gelukkig ben ik op tijd."
+  },
+  {
+    "word": "intercity",
+    "translation": "intercity train",
+    "example_sentence": "Ik neem de intercity."
+  },
+  {
+    "word": "minuut",
+    "translation": "minute",
+    "example_sentence": "Ik wacht een minuut."
+  },
+  {
+    "word": "nergens",
+    "translation": "nowhere",
+    "example_sentence": "Ik ga nergens heen."
+  },
+  {
+    "word": "normaal",
+    "translation": "normally",
+    "example_sentence": "Normaal kom ik op tijd."
+  },
+  {
+    "word": "opletten",
+    "translation": "to pay attention",
+    "example_sentence": "Ik let goed op."
+  },
+  {
+    "word": "overstappen",
+    "translation": "to change",
+    "example_sentence": "Ik stap over in Utrecht."
+  },
+  {
+    "word": "reiziger",
+    "translation": "traveller",
+    "example_sentence": "Er zijn veel reizigers."
+  },
+  {
+    "word": "spoor",
+    "translation": "platform",
+    "example_sentence": "Het spoor is 3."
+  },
+  {
+    "word": "sprinter",
+    "translation": "sprinter train",
+    "example_sentence": "Ik neem de sprinter."
+  },
+  {
+    "word": "station",
+    "translation": "station",
+    "example_sentence": "Ik ga naar het station."
+  },
+  {
+    "word": "tas",
+    "translation": "bag",
+    "example_sentence": "Ik heb een tas."
+  },
+  {
+    "word": "telefoon",
+    "translation": "telephone",
+    "example_sentence": "Ik bel je op de telefoon."
+  },
+  {
+    "word": "verbinding",
+    "translation": "connection",
+    "example_sentence": "De verbinding is goed."
+  },
+  {
+    "word": "verstaan",
+    "translation": "to hear",
+    "example_sentence": "Ik versta je niet."
+  },
+  {
+    "word": "vertraging",
+    "translation": "delay",
+    "example_sentence": "Er is vertraging."
+  },
+  {
+    "word": "vertrek",
+    "translation": "departure",
+    "example_sentence": "Wat is de vertrektijd?"
+  },
+  {
+    "word": "vertrekken",
+    "translation": "to leave",
+    "example_sentence": "De trein vertrekt om 10 uur."
+  },
+  {
+    "word": "volgende",
+    "translation": "next",
+    "example_sentence": "Ik kom volgende week."
+  },
+  {
+    "word": "dochter",
+    "translation": "daughter",
+    "example_sentence": "Mijn dochter is jong."
+  },
+  {
+    "word": "duidelijk",
+    "translation": "clear",
+    "example_sentence": "Dat is duidelijk."
+  },
+  {
+    "word": "eerst",
+    "translation": "first",
+    "example_sentence": "Eerst ga ik naar huis."
+  },
+  {
+    "word": "eventueel",
+    "translation": "possibly",
+    "example_sentence": "Eventueel kom ik later."
+  },
+  {
+    "word": "geloven",
+    "translation": "to believe",
+    "example_sentence": "Ik geloof je."
+  },
+  {
+    "word": "idee",
+    "translation": "idea",
+    "example_sentence": "Dat is een goed idee."
+  },
+  {
+    "word": "kleren",
+    "translation": "clothes",
+    "example_sentence": "Ik koop nieuwe kleren."
+  },
+  {
+    "word": "links",
+    "translation": "left",
+    "example_sentence": "Ik ga naar links."
+  },
+  {
+    "word": "linksaf",
+    "translation": "turn left",
+    "example_sentence": "Ik ga linksaf."
+  },
+  {
+    "word": "lopen",
+    "translation": "to walk",
+    "example_sentence": "Ik loop naar huis."
+  },
+  {
+    "word": "mam",
+    "translation": "mum",
+    "example_sentence": "Ik bel mijn mam."
+  },
+  {
+    "word": "mezelf",
+    "translation": "myself",
+    "example_sentence": "Ik doe het mezelf."
+  },
+  {
+    "word": "naartoe",
+    "translation": "where to",
+    "example_sentence": "Waar ga je naartoe?"
+  },
+  {
+    "word": "plattegrond",
+    "translation": "map",
+    "example_sentence": "Ik kijk op de plattegrond."
+  },
+  {
+    "word": "rechtdoor",
+    "translation": "straight ahead",
+    "example_sentence": "Ik ga rechtdoor."
+  },
+  {
+    "word": "rechterkant",
+    "translation": "right side",
+    "example_sentence": "Ik ga naar de rechterkant."
+  },
+  {
+    "word": "rechts",
+    "translation": "right",
+    "example_sentence": "Ik ga naar rechts."
+  },
+  {
+    "word": "rechtsaf",
+    "translation": "turn right",
+    "example_sentence": "Ik ga rechtsaf."
+  },
+  {
+    "word": "route",
+    "translation": "route",
+    "example_sentence": "Wat is de beste route?"
+  },
+  {
+    "word": "slim",
+    "translation": "smart",
+    "example_sentence": "Je bent slim."
+  },
+  {
+    "word": "stuk",
+    "translation": "bit",
+    "example_sentence": "Ik eet een stuk brood."
+  },
+  {
+    "word": "tegenover",
+    "translation": "opposite",
+    "example_sentence": "Ik woon tegenover de winkel."
+  },
+  {
+    "word": "tekenen",
+    "translation": "to draw",
+    "example_sentence": "Ik teken graag."
+  },
+  {
+    "word": "terug",
+    "translation": "back",
+    "example_sentence": "Ik ga terug naar huis."
+  },
+  {
+    "word": "tijdje",
+    "translation": "while",
+    "example_sentence": "Ik wacht een tijdje."
+  },
+  {
+    "word": "uitleggen",
+    "translation": "to explain",
+    "example_sentence": "Ik leg het uit."
+  },
+  {
+    "word": "winkelen",
+    "translation": "to shop",
+    "example_sentence": "Ik ga winkelen."
+  },
+  {
+    "word": "auto",
+    "translation": "car",
+    "example_sentence": "Ik heb een auto."
+  },
+  {
+    "word": "bus",
+    "translation": "bus",
+    "example_sentence": "Ik neem de bus."
+  },
+  {
+    "word": "collega",
+    "translation": "colleague",
+    "example_sentence": "Mijn collega is vriendelijk."
+  },
+  {
+    "word": "docent",
+    "translation": "teacher",
+    "example_sentence": "De docent legt het uit."
+  },
+  {
+    "word": "enorm",
+    "translation": "enormous",
+    "example_sentence": "Het is enorm groot."
+  },
+  {
+    "word": "excuses",
+    "translation": "apologies",
+    "example_sentence": "Excuses voor de vertraging."
+  },
+  {
+    "word": "fiets",
+    "translation": "bicycle",
+    "example_sentence": "Ik fiets naar werk."
+  },
+  {
+    "word": "file",
+    "translation": "traffic jam",
+    "example_sentence": "Er is file."
+  },
+  {
+    "word": "gewoon",
+    "translation": "simply",
+    "example_sentence": "Ik doe het gewoon."
+  },
+  {
+    "word": "griep",
+    "translation": "flu",
+    "example_sentence": "Ik heb griep."
+  },
+  {
+    "word": "helaas",
+    "translation": "unfortunately",
+    "example_sentence": "Helaas kan ik niet komen."
+  },
+  {
+    "word": "kantoor",
+    "translation": "office",
+    "example_sentence": "Ik werk op kantoor."
+  },
+  {
+    "word": "liggen",
+    "translation": "to lie",
+    "example_sentence": "Ik lig in bed."
+  },
+  {
+    "word": "manager",
+    "translation": "manager",
+    "example_sentence": "De manager is streng."
+  },
+  {
+    "word": "na",
+    "translation": "after",
+    "example_sentence": "Na het werk ga ik naar huis."
+  },
+  {
+    "word": "ongeluk",
+    "translation": "accident",
+    "example_sentence": "Er is een ongeluk gebeurd."
+  },
+  {
+    "word": "pas",
+    "translation": "only",
+    "example_sentence": "Ik kom pas later."
+  },
+  {
+    "word": "rijden",
+    "translation": "to drive",
+    "example_sentence": "Ik rijd naar werk."
+  },
+  {
+    "word": "sturen",
+    "translation": "to send",
+    "example_sentence": "Ik stuur je een bericht."
+  },
+  {
+    "word": "tram",
+    "translation": "tram",
+    "example_sentence": "Ik neem de tram."
+  },
+  {
+    "word": "vergadering",
+    "translation": "meeting",
+    "example_sentence": "Ik heb een vergadering."
+  },
+  {
+    "word": "verhuizing",
+    "translation": "move",
+    "example_sentence": "Ik ga verhuizen."
+  },
+  {
+    "word": "vriendelijk",
+    "translation": "kind",
+    "example_sentence": "Je bent vriendelijk."
+  },
+  {
+    "word": "werk",
+    "translation": "work",
+    "example_sentence": "Ik ga naar werk."
+  },
+  {
+    "word": "benzine",
+    "translation": "gasoline",
+    "example_sentence": "Ik tank benzine."
+  },
+  {
+    "word": "duren",
+    "translation": "to last",
+    "example_sentence": "Het duurt lang."
+  },
+  {
+    "word": "erg",
+    "translation": "very",
+    "example_sentence": "Het is erg koud."
+  },
+  {
+    "word": "halte",
+    "translation": "stop",
+    "example_sentence": "Ik stap uit bij de halte."
+  },
+  {
+    "word": "handig",
+    "translation": "handy",
+    "example_sentence": "Dat is handig."
+  },
+  {
+    "word": "haten",
+    "translation": "to hate",
+    "example_sentence": "Ik haat regen."
+  },
+  {
+    "word": "helemaal",
+    "translation": "at all",
+    "example_sentence": "Ik begrijp het helemaal niet."
+  },
+  {
+    "word": "irritant",
+    "translation": "irritating",
+    "example_sentence": "Dat is irritant."
+  },
+  {
+    "word": "kosten",
+    "translation": "costs",
+    "example_sentence": "Wat zijn de kosten?"
+  },
+  {
+    "word": "kou",
+    "translation": "cold",
+    "example_sentence": "Ik heb kou."
+  },
+  {
+    "word": "milieu",
+    "translation": "environment",
+    "example_sentence": "Ik zorg voor het milieu."
+  },
+  {
+    "word": "nieuwsbrief",
+    "translation": "newsletter",
+    "example_sentence": "Ik krijg een nieuwsbrief."
+  },
+  {
+    "word": "ov",
+    "translation": "public transport",
+    "example_sentence": "Ik gebruik het OV."
+  },
+  {
+    "word": "parkeren",
+    "translation": "to park",
+    "example_sentence": "Ik parkeer de auto."
+  },
+  {
+    "word": "prettig",
+    "translation": "convenient",
+    "example_sentence": "Dat is prettig."
+  },
+  {
+    "word": "reistijd",
+    "translation": "travel time",
+    "example_sentence": "Wat is de reistijd?"
+  },
+  {
+    "word": "rijbewijs",
+    "translation": "driving licence",
+    "example_sentence": "Ik heb een rijbewijs."
+  },
+  {
+    "word": "rit",
+    "translation": "drive",
+    "example_sentence": "Het is een lange rit."
+  },
+  {
+    "word": "slecht",
+    "translation": "bad",
+    "example_sentence": "Het weer is slecht."
+  },
+  {
+    "word": "stoppen",
+    "translation": "to stop",
+    "example_sentence": "Ik stop de auto."
+  },
+  {
+    "word": "treinkaartje",
+    "translation": "train ticket",
+    "example_sentence": "Ik koop een treinkaartje."
+  },
+  {
+    "word": "verhaal",
+    "translation": "story",
+    "example_sentence": "Ik vertel een verhaal."
+  },
+  {
+    "word": "want",
+    "translation": "because",
+    "example_sentence": "Ik kom niet, want ik ben ziek."
+  },
+  {
+    "word": "winter",
+    "translation": "winter",
+    "example_sentence": "In de winter is het koud."
+  },
+  {
+    "word": "zelfs",
+    "translation": "even",
+    "example_sentence": "Zelfs ik begrijp het."
+  },
+  {
+    "word": "aandoen",
+    "translation": "to put on",
+    "example_sentence": "Ik doe mijn jas aan."
+  },
+  {
+    "word": "aantrekken",
+    "translation": "to put on",
+    "example_sentence": "Ik trek mijn schoenen aan."
+  },
+  {
+    "word": "bedoelen",
+    "translation": "to mean",
+    "example_sentence": "Wat bedoel je?"
+  },
+  {
+    "word": "benieuwd",
+    "translation": "curious",
+    "example_sentence": "Ik ben benieuwd naar het resultaat."
+  },
+  {
+    "word": "blouse",
+    "translation": "blouse",
+    "example_sentence": "Ik draag een blouse."
+  },
+  {
+    "word": "broek",
+    "translation": "trousers",
+    "example_sentence": "Ik koop een nieuwe broek."
+  },
+  {
+    "word": "bruiloft",
+    "translation": "wedding",
+    "example_sentence": "Ik ga naar een bruiloft."
+  },
+  {
+    "word": "dragen",
+    "translation": "to wear",
+    "example_sentence": "Ik draag een trui."
+  },
+  {
+    "word": "geel",
+    "translation": "yellow",
+    "example_sentence": "De zon is geel."
+  },
+  {
+    "word": "jurk",
+    "translation": "dress",
+    "example_sentence": "Ik draag een jurk."
+  },
+  {
+    "word": "kaart",
+    "translation": "card",
+    "example_sentence": "Ik geef je een kaart."
+  },
+  {
+    "word": "lelijk",
+    "translation": "ugly",
+    "example_sentence": "Dat is lelijk."
+  },
+  {
+    "word": "lievelings",
+    "translation": "favourite",
+    "example_sentence": "Dit is mijn lievelingskleur."
+  },
+  {
+    "word": "mening",
+    "translation": "opinion",
+    "example_sentence": "Wat is jouw mening?"
+  },
+  {
+    "word": "nadenken",
+    "translation": "to think about",
+    "example_sentence": "Ik denk na over het probleem."
+  },
+  {
+    "word": "niets",
+    "translation": "nothing",
+    "example_sentence": "Ik heb niets."
+  },
+  {
+    "word": "overhemd",
+    "translation": "shirt",
+    "example_sentence": "Ik draag een overhemd."
+  },
+  {
+    "word": "pak",
+    "translation": "suit",
+    "example_sentence": "Ik draag een pak."
+  },
+  {
+    "word": "prachtig",
+    "translation": "beautiful",
+    "example_sentence": "Het is prachtig weer."
+  },
+  {
+    "word": "rood",
+    "translation": "red",
+    "example_sentence": "De auto is rood."
+  },
+  {
+    "word": "roze",
+    "translation": "pink",
+    "example_sentence": "De bloem is roze."
+  },
+  {
+    "word": "schoen",
+    "translation": "shoe",
+    "example_sentence": "Ik koop nieuwe schoenen."
+  },
+  {
+    "word": "spijkerbroek",
+    "translation": "jeans",
+    "example_sentence": "Ik draag een spijkerbroek."
+  },
+  {
+    "word": "trouwen",
+    "translation": "to marry",
+    "example_sentence": "Ze gaan trouwen."
+  },
+  {
+    "word": "trui",
+    "translation": "sweater",
+    "example_sentence": "Ik draag een warme trui."
+  },
+  {
+    "word": "uitgeven",
+    "translation": "to spend",
+    "example_sentence": "Ik geef geld uit."
+  },
+  {
+    "word": "aanbieding",
+    "translation": "special offer",
+    "example_sentence": "Er is een aanbieding."
+  },
+  {
+    "word": "aankoop",
+    "translation": "purchase",
+    "example_sentence": "Ik maak een aankoop."
+  },
+  {
+    "word": "algemeen",
+    "translation": "general",
+    "example_sentence": "In het algemeen is het goed."
+  },
+  {
+    "word": "bankafschrift",
+    "translation": "bank statement",
+    "example_sentence": "Ik krijg mijn bankafschrift."
+  },
+  {
+    "word": "bepaald",
+    "translation": "certain",
+    "example_sentence": "Ik ben bepaald niet blij."
+  },
+  {
+    "word": "binnen",
+    "translation": "within",
+    "example_sentence": "Binnen een week ben ik klaar."
+  },
+  {
+    "word": "contant",
+    "translation": "in cash",
+    "example_sentence": "Ik betaal contant."
+  },
+  {
+    "word": "garantie",
+    "translation": "warranty",
+    "example_sentence": "Er is garantie op het product."
+  },
+  {
+    "word": "gelden",
+    "translation": "to apply",
+    "example_sentence": "De regel geldt voor iedereen."
+  },
+  {
+    "word": "houden",
+    "translation": "to keep",
+    "example_sentence": "Ik houd het product."
+  },
+  {
+    "word": "kapotgaan",
+    "translation": "to become defective",
+    "example_sentence": "Mijn telefoon gaat kapot."
+  },
+  {
+    "word": "kassabon",
+    "translation": "receipt",
+    "example_sentence": "Ik krijg een kassabon."
+  },
+  {
+    "word": "klantenservice",
+    "translation": "customer service",
+    "example_sentence": "Ik bel de klantenservice."
+  },
+  {
+    "word": "namelijk",
+    "translation": "namely",
+    "example_sentence": "Ik kom namelijk niet."
+  },
+  {
+    "word": "origineel",
+    "translation": "original",
+    "example_sentence": "Het is het originele product."
+  },
+  {
+    "word": "pinpas",
+    "translation": "debit card",
+    "example_sentence": "Ik betaal met mijn pinpas."
+  },
+  {
+    "word": "product",
+    "translation": "product",
+    "example_sentence": "Het product is goed."
+  },
+  {
+    "word": "reparatie",
+    "translation": "repair",
+    "example_sentence": "Ik laat het repareren."
+  },
+  {
+    "word": "ruilen",
+    "translation": "to exchange",
+    "example_sentence": "Ik ruil het product."
+  },
+  {
+    "word": "tegoedbon",
+    "translation": "voucher",
+    "example_sentence": "Ik krijg een tegoedbon."
+  },
+  {
+    "word": "telefonisch",
+    "translation": "by telephone",
+    "example_sentence": "Ik bel telefonisch."
+  },
+  {
+    "word": "terugkrijgen",
+    "translation": "to get back",
+    "example_sentence": "Ik krijg mijn geld terug."
+  },
+  {
+    "word": "terugstorten",
+    "translation": "to refund",
+    "example_sentence": "Het geld wordt teruggestort."
+  },
+  {
+    "word": "terugsturen",
+    "translation": "to send back",
+    "example_sentence": "Ik stuur het product terug."
+  },
+  {
+    "word": "tijd",
+    "translation": "time",
+    "example_sentence": "Ik heb geen tijd."
+  },
+  {
+    "word": "voorwaarde",
+    "translation": "condition",
+    "example_sentence": "Er zijn voorwaarden."
+  },
+  {
+    "word": "aantal",
+    "translation": "number",
+    "example_sentence": "Wat is het aantal?"
+  },
+  {
+    "word": "argument",
+    "translation": "argument",
+    "example_sentence": "Ik heb een goed argument."
+  },
+  {
+    "word": "bekijken",
+    "translation": "to look at",
+    "example_sentence": "Ik bekijk het product."
+  },
+  {
+    "word": "beoordeling",
+    "translation": "review",
+    "example_sentence": "Ik lees de beoordeling."
+  },
+  {
+    "word": "beslissing",
+    "translation": "decision",
+    "example_sentence": "Ik maak een beslissing."
+  },
+  {
+    "word": "betrouwbaar",
+    "translation": "reliable",
+    "example_sentence": "Het is betrouwbaar."
+  },
+  {
+    "word": "boek",
+    "translation": "book",
+    "example_sentence": "Ik lees een boek."
+  },
+  {
+    "word": "gaaf",
+    "translation": "cool",
+    "example_sentence": "Dat is gaaf!"
+  },
+  {
+    "word": "kwaliteit",
+    "translation": "quality",
+    "example_sentence": "De kwaliteit is goed."
+  },
+  {
+    "word": "laptop",
+    "translation": "laptop",
+    "example_sentence": "Ik werk op mijn laptop."
+  },
+  {
+    "word": "letten op",
+    "translation": "to pay attention to",
+    "example_sentence": "Ik let op de prijs."
+  },
+  {
+    "word": "minstens",
+    "translation": "at least",
+    "example_sentence": "Het kost minstens 10 euro."
+  },
+  {
+    "word": "noemen",
+    "translation": "to mention",
+    "example_sentence": "Ik noem het product."
+  },
+  {
+    "word": "nogal",
+    "translation": "quite",
+    "example_sentence": "Het is nogal duur."
+  },
+  {
+    "word": "opruiming",
+    "translation": "clearance sale",
+    "example_sentence": "Er is opruiming."
+  },
+  {
+    "word": "rotzooi",
+    "translation": "inferior product",
+    "example_sentence": "Het is rotzooi."
+  },
+  {
+    "word": "stukgaan",
+    "translation": "to break down",
+    "example_sentence": "Mijn computer gaat stuk."
+  },
+  {
+    "word": "twijfelen",
+    "translation": "to doubt",
+    "example_sentence": "Ik twijfel over de aankoop."
+  },
+  {
+    "word": "verdienen",
+    "translation": "to earn",
+    "example_sentence": "Ik verdien geld."
+  },
+  {
+    "word": "vinger",
+    "translation": "finger",
+    "example_sentence": "Ik heb tien vingers."
+  },
+  {
+    "word": "waar",
+    "translation": "true",
+    "example_sentence": "Dat is waar."
+  },
+  {
+    "word": "afgeven",
+    "translation": "to hand off",
+    "example_sentence": "Ik geef het pakket af."
+  },
+  {
+    "word": "artikel",
+    "translation": "article",
+    "example_sentence": "Ik lees een artikel."
+  },
+  {
+    "word": "dichtmaken",
+    "translation": "to close",
+    "example_sentence": "Ik maak de doos dicht."
+  },
+  {
+    "word": "inloggen",
+    "translation": "to log in",
+    "example_sentence": "Ik log in op de website."
+  },
+  {
+    "word": "juist",
+    "translation": "right",
+    "example_sentence": "Dat is juist."
+  },
+  {
+    "word": "klikken",
+    "translation": "to click",
+    "example_sentence": "Ik klik op de knop."
+  },
+  {
+    "word": "leggen",
+    "translation": "to lay",
+    "example_sentence": "Ik leg het boek neer."
+  },
+  {
+    "word": "locatie",
+    "translation": "location",
+    "example_sentence": "Wat is de locatie?"
+  },
+  {
+    "word": "maat",
+    "translation": "size",
+    "example_sentence": "Wat is jouw maat?"
+  },
+  {
+    "word": "ontvangen",
+    "translation": "to receive",
+    "example_sentence": "Ik ontvang het pakket."
+  },
+  {
+    "word": "order",
+    "translation": "order",
+    "example_sentence": "Ik plaats een order."
+  },
+  {
+    "word": "over heen",
+    "translation": "on top of",
+    "example_sentence": "Ik ga over de brug heen."
+  },
+  {
+    "word": "pakket",
+    "translation": "package",
+    "example_sentence": "Ik krijg een pakket."
+  },
+  {
+    "word": "plakken",
+    "translation": "to stick",
+    "example_sentence": "Ik plak een sticker."
+  },
+  {
+    "word": "reden",
+    "translation": "reason",
+    "example_sentence": "Wat is de reden?"
+  },
+  {
+    "word": "retour",
+    "translation": "return",
+    "example_sentence": "Ik stuur het retour."
+  },
+  {
+    "word": "sok",
+    "translation": "sock",
+    "example_sentence": "Ik draag sokken."
+  },
+  {
+    "word": "stap",
+    "translation": "step",
+    "example_sentence": "Ik neem een stap."
+  },
+  {
+    "word": "sticker",
+    "translation": "sticker",
+    "example_sentence": "Ik plak een sticker."
+  },
+  {
+    "word": "verkeerd",
+    "translation": "wrong",
+    "example_sentence": "Dat is verkeerd."
+  },
+  {
+    "word": "vervolgens",
+    "translation": "thereafter",
+    "example_sentence": "Vervolgens ga ik naar huis."
+  },
+  {
+    "word": "verzendbewijs",
+    "translation": "proof of shipment",
+    "example_sentence": "Ik krijg een verzendbewijs."
+  },
+  {
+    "word": "verzenden",
+    "translation": "to send",
+    "example_sentence": "Ik verzend het pakket."
+  },
+  {
+    "word": "wachtwoord",
+    "translation": "password",
+    "example_sentence": "Ik gebruik een wachtwoord."
+  },
+  {
+    "word": "webwinkel",
+    "translation": "webshop",
+    "example_sentence": "Ik koop in de webwinkel."
+  },
+  {
+    "word": "totaal",
+    "translation": "total",
+    "example_sentence": "Wat is het totaal?"
+  }
+] 
