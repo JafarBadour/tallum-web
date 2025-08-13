@@ -35,6 +35,13 @@
             margin-bottom: 30px;
         }
 
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
         .header h1 {
             color: #333;
             font-size: 2.5em;
@@ -48,6 +55,22 @@
         .header p {
             color: #666;
             font-size: 1.1em;
+        }
+
+        .logout-btn {
+            background: #dc3545;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.9em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .logout-btn:hover {
+            background: #c82333;
+            transform: translateY(-1px);
         }
 
         .word-card {
@@ -222,6 +245,52 @@
             margin-top: 10px;
         }
 
+        .keyboard-shortcuts {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border: 1px solid #e9ecef;
+        }
+
+        .keyboard-shortcuts h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        .shortcut-grid {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .shortcut-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            min-width: 120px;
+        }
+
+        .key {
+            background: #667eea;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+            min-width: 80px;
+        }
+
+        .description {
+            color: #666;
+            font-size: 0.9em;
+        }
+
         @media (max-width: 480px) {
             .container {
                 padding: 20px;
@@ -244,7 +313,10 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Tallum</h1>
+            <div class="header-top">
+                <h1>Tallum</h1>
+                <a href="{{ url_for('logout') }}" class="logout-btn">Logout</a>
+            </div>
             <p>Learn foreign words with smart repetition</p>
         </div>
 
@@ -275,12 +347,34 @@
                 <div class="stat-label">Total Words</div>
             </div>
             <div class="stat-item">
+                <div class="stat-value" id="learnedWords">0</div>
+                <div class="stat-label">Learned Words</div>
+            </div>
+            <div class="stat-item">
                 <div class="stat-value" id="avgPositive">0</div>
                 <div class="stat-label">Avg Positive</div>
             </div>
             <div class="stat-item">
                 <div class="stat-value" id="avgNegative">0</div>
                 <div class="stat-label">Avg Negative</div>
+            </div>
+        </div>
+
+        <div class="keyboard-shortcuts">
+            <h3>Keyboard Shortcuts</h3>
+            <div class="shortcut-grid">
+                <div class="shortcut-item">
+                    <span class="key">Enter</span>
+                    <span class="description">Check answer</span>
+                </div>
+                <div class="shortcut-item">
+                    <span class="key">Shift + Shift</span>
+                    <span class="description">Show sentence hint</span>
+                </div>
+                <div class="shortcut-item">
+                    <span class="key">Space</span>
+                    <span class="description">Next word</span>
+                </div>
             </div>
         </div>
 
@@ -317,7 +411,14 @@
         nextBtn.addEventListener('click', getNextWord);
         answerInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
-                checkAnswer();
+                if (nextBtn.style.display !== 'none') {
+                    // If "Next Word" button is visible, go to next word
+                    e.preventDefault();
+                    getNextWord();
+                } else {
+                    // Otherwise, check the answer
+                    checkAnswer();
+                }
             }
         });
 
@@ -328,7 +429,13 @@
                 e.preventDefault(); // Prevent page scrolling
                 getNextWord();
             }
-            
+            if (e.key === 'Enter') {
+                if (nextBtn.style.display !== 'none') {
+                    // If "Next Word" button is visible, go to next word
+                    e.preventDefault();
+                    getNextWord();
+                } 
+            }
             // Double shift for show sentence
             if (e.code === 'ShiftLeft' || e.code === 'ShiftRight') {
                 shiftPressCount++;
@@ -364,6 +471,7 @@
 
         function updateStatsDisplay() {
             document.getElementById('totalWords').textContent = stats.total_words || 0;
+            document.getElementById('learnedWords').textContent = stats.learned_words || 0;
             document.getElementById('avgPositive').textContent = stats.average_positive_score || 0;
             document.getElementById('avgNegative').textContent = stats.average_negative_score || 0;
         }
