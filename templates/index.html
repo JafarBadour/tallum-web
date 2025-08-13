@@ -407,8 +407,37 @@
         // Event listeners
         startBtn.addEventListener('click', startLearning);
         checkBtn.addEventListener('click', checkAnswer);
-        hintBtn.addEventListener('click', showSentence);
-        nextBtn.addEventListener('click', getNextWord);
+        hintBtn.addEventListener('click', () => {
+            showSentence();
+            // Focus back to input after showing sentence
+            setTimeout(() => {
+                answerInput.focus();
+            }, 100);
+        });
+        nextBtn.addEventListener('click', () => {
+            getNextWord();
+            // Focus back to input after getting next word
+            setTimeout(() => {
+                answerInput.focus();
+            }, 100);
+        });
+
+        // Add touch event listeners for mobile devices
+        hintBtn.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            showSentence();
+            setTimeout(() => {
+                answerInput.focus();
+            }, 100);
+        });
+
+        nextBtn.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            getNextWord();
+            setTimeout(() => {
+                answerInput.focus();
+            }, 100);
+        });
         answerInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 if (nextBtn.style.display !== 'none') {
